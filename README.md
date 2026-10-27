@@ -26,9 +26,9 @@ Edit `data/code.json`. Schema:
 }
 ```
 
-The above is a **schema demonstration only**, not enacted law. Source text belongs solely in `sections[].text`. Separate paragraphs with a blank line; preserve actual numbering and punctuation. Section numbers must be unique. Title and chapter IDs must be unique, and each chapter/section must reference a real parent. Make legal edits only against an approved authoritative source. Use `history` only for documented enactments/amendments; never infer dates or legislative histories.
+Stored section `10-111` under title 10 is displayed as `10 M.S.C. § 111`. Explicit `title_number` and `section_number` fields are also supported. The above is a **schema demonstration only**, not enacted law. Source text belongs solely in `sections[].text`. Separate paragraphs with a blank line; preserve actual numbering and punctuation. Section numbers must be unique. Title and chapter IDs must be unique, and each chapter/section must reference a real parent. Make legal edits only against an approved authoritative source. Use `history` only for documented enactments/amendments; never infer dates or legislative histories.
 
-Supported features: title and chapter contents, title/section filtering, exact citation lookup (`§ 1-101(a)`), keyword/phrase search, stable direct links (`?section=1-101#section-1-101-a`), subsection anchors, related-section links in text, copy citation/link, adjacent provision links, mobile contents drawer, and print layout.
+Supported features: title and chapter contents, title/section filtering, citation lookup (`10 M.S.C. § 111(a)`; equivalent shorthand accepted), keyword/phrase search, stable direct links (`?section=1-101#section-1-101-a`), subsection anchors, related-section links in text, copy citation/link, adjacent provision links, mobile contents drawer, and print layout.
 
 ## GitHub Pages
 
