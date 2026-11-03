@@ -45,3 +45,18 @@
   .reading .code-citation{color:#111!important;font-size:18pt!important}
   .reading .section-title{font-size:16pt!important}
 }
+
+
+/* USC-style statutory hierarchy: (a), (1), (A). */
+.statute-clause{display:grid;grid-template-columns:3.1rem minmax(0,1fr);gap:0.25rem;align-items:start;margin:0 0 1.1rem;min-width:0}
+.statute-marker{font:inherit;color:var(--text);white-space:nowrap;padding-top:0}
+.statute-clause-text{min-width:0}
+.statute-clause-text>p:first-child{margin-top:0}
+.statute-clause-text>p:last-child{margin-bottom:0}
+.statute-clause .nested-clause{grid-template-columns:3rem minmax(0,1fr);margin:0 0 0.8rem}
+.statute .part-clause{margin:0 0 2rem}
+.statute .part-heading{margin:0 0 0.9rem;font:600 17px/1.5 Georgia,"Times New Roman",serif;letter-spacing:0;color:var(--text)}
+.statute-clause:target{background:rgba(212,176,106,.09);box-shadow:-3px 0 var(--accent);scroll-margin-top:25px}
+.statute-clause-text p{overflow-wrap:break-word;white-space:pre-wrap}
+@media(max-width:650px){.statute-clause{grid-template-columns:2.2rem minmax(0,1fr)}.statute-clause .nested-clause{grid-template-columns:2.35rem minmax(0,1fr)}.statute .part-heading{font-size:16px}}
+@media print{.statute-clause{grid-template-columns:.42in minmax(0,1fr);gap:0;margin-bottom:9pt;break-inside:auto}.statute-clause .nested-clause{grid-template-columns:.42in minmax(0,1fr)}.statute-marker{color:#111!important}.statute .part-heading{font:700 11pt/1.4 Georgia,serif!important;color:#111!important;break-after:avoid;page-break-after:avoid}.statute-clause-text p{orphans:3;widows:3}}
