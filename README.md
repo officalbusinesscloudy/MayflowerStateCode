@@ -45,3 +45,9 @@ Before release verify all title/chapter references, exact provision text, subsec
 The consolidated draft uses title → chapter → section. There are currently 32 substantive chapters and 327 draft sections across the retained nine-title structure. Related old administrative provisions have been grouped, including the State Bar provisions formerly shown as numerous standalone entries. Individual criminal and traffic offenses remain separate to avoid conflating distinct legal elements and penalties. Older draft deep links are still recognized by the reader, and the citation crosswalk is in `data/legacy/citation-crosswalk.json`.
 
 This editorial restructuring does not itself enact, repeal, or amend law. All existing internal cross-references that still point to the former numbering need verification before the text is approved.
+
+## Automated Code Integrity Check
+
+Run `node scripts/check-code.mjs` after any change to `data/code.json`. The script checks section identity and parent relationships, current M.S.C. citations, obsolete title/subtitle/chapter references, grouped source-text consistency, and short-title or legacy-penalty artifacts. It fails with a nonzero exit code if a structural error is found.
+
+The full November 3, 2026 audit and remaining substantive legal-review items are documented in [CODE_AUDIT.md](CODE_AUDIT.md). A passing structural audit does not constitute enactment, approval, or legal validation of proposed provisions.
