@@ -11,7 +11,7 @@ function findSection(title,num){return state.sections.find(s=>{const p=sectionPa
 const chapterUrl=id=>href('chapter',id);
 const titleUrl=id=>href('title',id);
 function extractParagraphs(s){let path=[],parts=String(s||'').split(/\n\s*\n/);return parts.map((raw,i)=>{const markers=[...raw.matchAll(/^\s*\(([a-z]|[ivxlcdm]+|\d+)\)/g)];const m=markers[0]?.[1];if(m){const marker=String(m).toLowerCase(); if(/^[a-z]$/.test(marker)&&!/^[ivx]$/.test(marker)){path=[marker]}else if(/^[a-z]$/.test(marker)&&(!path.length||path.length>1)){path=[marker]}else if(path.length){path=[path[0],marker]}else{path=[marker]}}return {raw,path:m?[...path]:[],id:'paragraph-'+i}})}
-function normalizeLegalReference(value){return String(value||'').toLowerCase().replace(/\b(mayflower state code|m\.?s\.?c\.?|msc)\b/g,'msc').replace(/\s+/g,' ').replace(/\s*§\s*/g,' § ').replace(/\s*\(\s*/g,'(').replace(/\s*\)\s*/g,')').trim().replace(/[.;,]+$/,'')}
+function normalizeLegalReference(value){return String(value||'').toLowerCase().replace(/\bmayflower state code\b/g,'msc').replace(/\bm\.?s\.?c\.?(?=\s|§|$)/g,'msc').replace(/\s+/g,' ').replace(/\s*§\s*/g,' § ').replace(/\s*\(\s*/g,'(').replace(/\s*\)\s*/g,')').trim().replace(/[.;,]+$/,'')}
 function citationAliases(section){
  const p=sectionParts(section),aliases=[section.number,citation(section),p.title+' MSC § '+p.number,p.title+' M.S.C. § '+p.number];
  const legacy=section.legacy||{};
@@ -33,7 +33,7 @@ function markup(raw){
   const base=subMatch?original.slice(0,-subMatch[0].length):original;
   const p=base.match(/(?:^|\s)(\d+)\s*M\.?S\.?C\.?\s*§\s*(\d+[a-z]?)$/i);
   const short=base.match(/(?:§\s*|Section\s+)(\d+[a-z]?(?:[-.]\d+[a-z]?)?)$/i);
-  let target=resolveLegalReference(base);
+  let target=resolveLegalReference(original)||resolveLegalReference(base);
   if(!target&&p)target=findSection(p[1],p[2]);
   if(!target&&short)target=state.sections.filter(s=>sectionParts(s).number.toLowerCase()===short[1].toLowerCase()).length===1?state.sections.find(s=>sectionParts(s).number.toLowerCase()===short[1].toLowerCase()):null;
   const sub=subMatch?.[1]||'';
