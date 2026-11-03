@@ -1,5 +1,2151 @@
 {
   "source_spreadsheet": "14flvnV3mwHRFh5o9961EraADePfw9A8Jvc2VrC88YrI",
   "source_tab": "Title 7: Conservation",
-  "records": []
+  "records": [
+    {
+      "old_title": 7,
+      "source_row": 14,
+      "old_citation": "7 M.S.C. 1 § 1101",
+      "legacy_section": "1101",
+      "subsection": "",
+      "text": "The term \"conservation officer\" shall refer to:\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 15,
+      "old_citation": "7 M.S.C. 1 § 1101(a)",
+      "legacy_section": "1101",
+      "subsection": "(a)",
+      "text": "(a) Any person employed by the Mayflower Parks and Wildlife Department for the purposes of enforcing this Title.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 16,
+      "old_citation": "7 M.S.C. 1 § 1101(b)",
+      "legacy_section": "1101",
+      "subsection": "(b)",
+      "text": "(b) Any person considered a peace officer under the Police Services and Community Safety Act.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 17,
+      "old_citation": "7 M.S.C. 1 § 1102",
+      "legacy_section": "1102",
+      "subsection": "",
+      "text": "The term \"fish\" includes:\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 18,
+      "old_citation": "7 M.S.C. 1 § 1102(a)",
+      "legacy_section": "1102",
+      "subsection": "(a)",
+      "text": "(a) parts of fish;\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 19,
+      "old_citation": "7 M.S.C. 1 § 1102(b)",
+      "legacy_section": "1102",
+      "subsection": "(b)",
+      "text": "(b) shellfish, crustaceans, marine animals and any parts of shellfish, crustaceans or marine animals; and\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 20,
+      "old_citation": "7 M.S.C. 1 § 1102(c)",
+      "legacy_section": "1102",
+      "subsection": "(c)",
+      "text": "(c) the eggs, sperm, spawn, larvae, spat and juvenile stages of fish, shellfish, crustaceans and marine animals.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 21,
+      "old_citation": "7 M.S.C. 1 § 1103",
+      "legacy_section": "1103",
+      "subsection": "",
+      "text": "The term \"fishing license\" shall refer to:\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 22,
+      "old_citation": "7 M.S.C. 1 § 1103(a)",
+      "legacy_section": "1103",
+      "subsection": "(a)",
+      "text": "(a) A license or permit issued under this Title for the purposes of capturing fish, but does not include a commercial license.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 23,
+      "old_citation": "7 M.S.C. 1 § 1104",
+      "legacy_section": "1104",
+      "subsection": "",
+      "text": "The term \"commercial fishing license\" shall refer to:\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 24,
+      "old_citation": "7 M.S.C. 1 § 1104(a)",
+      "legacy_section": "1104",
+      "subsection": "(a)",
+      "text": "(a) A license or permit issued under this Title to a registered business entity.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 25,
+      "old_citation": "7 M.S.C. 1 § 1105",
+      "legacy_section": "1105",
+      "subsection": "",
+      "text": "The term \"Director of Parks and Wildlife\" shall refer to:\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 26,
+      "old_citation": "7 M.S.C. 1 § 1105(a)",
+      "legacy_section": "1105",
+      "subsection": "(a)",
+      "text": "(a) The Director of the Mayflower Parks and Wildlife Department.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 27,
+      "old_citation": "7 M.S.C. 1 § 1106",
+      "legacy_section": "1106",
+      "subsection": "",
+      "text": "The term \"fish habitat\" shall refer to:\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 28,
+      "old_citation": "7 M.S.C. 1 § 1106(a)",
+      "legacy_section": "1106",
+      "subsection": "(a)",
+      "text": "(a) Water frequented by fish and any other areas on which fish depend directly or indirectly to carry out their life processes.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 29,
+      "old_citation": "7 M.S.C. 1 § 1107",
+      "legacy_section": "1107",
+      "subsection": "",
+      "text": "The term \"capture device\" shall refer to:\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 30,
+      "old_citation": "7 M.S.C. 1 § 1107(a)",
+      "legacy_section": "1107",
+      "subsection": "(a)",
+      "text": "(a) Any machine, equipment, or contrivance specifically designed for and capable of capturing, retrieving, or securing fish.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 31,
+      "old_citation": "7 M.S.C. 1 § 1108",
+      "legacy_section": "1108",
+      "subsection": "",
+      "text": "The term \"fishing area\" shall refer to:\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 32,
+      "old_citation": "7 M.S.C. 1 § 1108(a)",
+      "legacy_section": "1108",
+      "subsection": "(a)",
+      "text": "(a) Land within 50 studs of any lake, river, or stream—in addition to the body of water itself—within the state that does not fall on private property, in addition to any bridge, port, pier or dock that is publicly accessible\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 33,
+      "old_citation": "7 M.S.C. 1 § 1109",
+      "legacy_section": "1109",
+      "subsection": "",
+      "text": "The term \"area of cultural significance or natural beauty\" shall refer to:\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 34,
+      "old_citation": "7 M.S.C. 1 § 1109(a)",
+      "legacy_section": "1109",
+      "subsection": "(a)",
+      "text": "(a) Any site that is designated through resolution by the State Senate to be of cultural significance to the people of the State or the Union and those of significant natural beauty.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 35,
+      "old_citation": "7 M.S.C. 1 § 1110",
+      "legacy_section": "1110",
+      "subsection": "",
+      "text": "The term \"state park\" shall refer to:\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 36,
+      "old_citation": "7 M.S.C. 1 § 1110(a)",
+      "legacy_section": "1110",
+      "subsection": "(a)",
+      "text": "(a) An area of natural beauty as defined, that with the consent of the Director of Parks and Wildlife is named, and Central Authority creates and places signage defining the boundaries of the State Park.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 37,
+      "old_citation": "7 M.S.C. 1 § 1111",
+      "legacy_section": "1111",
+      "subsection": "",
+      "text": "The term \"protected forest\" shall refer to:\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 38,
+      "old_citation": "7 M.S.C. 1 § 1111(a)",
+      "legacy_section": "1111",
+      "subsection": "(a)",
+      "text": "(a) Any area designated by the State Senate through resolution in which logging is prohibited.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 42,
+      "old_citation": "7 M.S.C. 1 § 1201",
+      "legacy_section": "1201",
+      "subsection": "",
+      "text": "Any person who wishes to capture fish in any fish habitat shall be required to possess a fishing license.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER II. REQUIREMENTS TO FISH",
+        "subchapter": "SUBCHAPTER II. REQUIREMENTS TO FISH",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 43,
+      "old_citation": "7 M.S.C. 1 § 1202",
+      "legacy_section": "1202",
+      "subsection": "",
+      "text": "Any registered business which, as a part of its business operations, captures fish in a fish habitat shall be required to possess a commercial fishing license.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER II. REQUIREMENTS TO FISH",
+        "subchapter": "SUBCHAPTER II. REQUIREMENTS TO FISH",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 44,
+      "old_citation": "7 M.S.C. 1 § 1202(a)",
+      "legacy_section": "1202",
+      "subsection": "(a)",
+      "text": "(a) Upon receiving a commercial fishing license, the owner of the business entity or the employee in charge of obtaining the commercial fishing license shall notify the Department of State of such.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER II. REQUIREMENTS TO FISH",
+        "subchapter": "SUBCHAPTER II. REQUIREMENTS TO FISH",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 45,
+      "old_citation": "7 M.S.C. 1 § 1202(b)",
+      "legacy_section": "1202",
+      "subsection": "(b)",
+      "text": "(b) Any employee of a business entity with a commercial fishing license does not exempt them from the requirement to possess a fishing license as stipulated in 7 M.S.C. 1 § 1201.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER II. REQUIREMENTS TO FISH",
+        "subchapter": "SUBCHAPTER II. REQUIREMENTS TO FISH",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 46,
+      "old_citation": "7 M.S.C. 1 § 1203",
+      "legacy_section": "1203",
+      "subsection": "",
+      "text": "Any person may possess a capture device, however no person shall use a capture device to capture fish in any fish habitat unless:\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER II. REQUIREMENTS TO FISH",
+        "subchapter": "SUBCHAPTER II. REQUIREMENTS TO FISH",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 47,
+      "old_citation": "7 M.S.C. 1 § 1203(a)",
+      "legacy_section": "1203",
+      "subsection": "(a)",
+      "text": "(a) that person possesses a fishing license; or\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER II. REQUIREMENTS TO FISH",
+        "subchapter": "SUBCHAPTER II. REQUIREMENTS TO FISH",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 48,
+      "old_citation": "7 M.S.C. 1 § 1203(b)",
+      "legacy_section": "1203",
+      "subsection": "(b)",
+      "text": "(b) that person is employed by a business entity that has a commercial fishing license and is capturing fish solely for the business entity.\nN/A\nN/A\nN/A",
+      "status": "INACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER II. REQUIREMENTS TO FISH",
+        "subchapter": "SUBCHAPTER II. REQUIREMENTS TO FISH",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 52,
+      "old_citation": "7 M.S.C. 1 § 1301",
+      "legacy_section": "1301",
+      "subsection": "",
+      "text": "Any person observed by a conservation officer to be engaged in capturing fish, with or without the use of a capture device, shall be required to display their fishing license.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER III. INSPECTION AND FISHING LICENSE DISPLAY UPON REQUEST",
+        "subchapter": "SUBCHAPTER III. INSPECTION AND FISHING LICENSE DISPLAY UPON REQUEST",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 53,
+      "old_citation": "7 M.S.C. 1 § 1301(a)",
+      "legacy_section": "1301",
+      "subsection": "(a)",
+      "text": "(a) Any person that is an employee of a business entity that possesses a commercial fishing license and is engaged in capturing fish for that business entity must, in addition to this code, communicate to the conservation officer the business entity that they are working under.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER III. INSPECTION AND FISHING LICENSE DISPLAY UPON REQUEST",
+        "subchapter": "SUBCHAPTER III. INSPECTION AND FISHING LICENSE DISPLAY UPON REQUEST",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 54,
+      "old_citation": "7 M.S.C. 1 § 1302",
+      "legacy_section": "1302",
+      "subsection": "",
+      "text": "Any person in possession of a fishing license and is observed by a conservation officer to be engaged in capturing fish shall have their person liable and current vehicle to search by the aforementioned conservation officer provided that there are reasonable grounds to do so.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER III. INSPECTION AND FISHING LICENSE DISPLAY UPON REQUEST",
+        "subchapter": "SUBCHAPTER III. INSPECTION AND FISHING LICENSE DISPLAY UPON REQUEST",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 55,
+      "old_citation": "7 M.S.C. 1 § 1302(a)",
+      "legacy_section": "1302",
+      "subsection": "(a)",
+      "text": "(a) Any person upon purchasing or obtaining a fishing license agrees that if they are observed to be engaged in capturing fish by a conservation officer, with or without the use of a capture device, then their person and current vehicle is liable to search by the aforementioned conservation officer provided that there are reasonable grounds to do so.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER III. INSPECTION AND FISHING LICENSE DISPLAY UPON REQUEST",
+        "subchapter": "SUBCHAPTER III. INSPECTION AND FISHING LICENSE DISPLAY UPON REQUEST",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 56,
+      "old_citation": "7 M.S.C. 1 § 1302(b)",
+      "legacy_section": "1302",
+      "subsection": "(b)",
+      "text": "(b) An observation of a person engaged in capturing fish is considered void if the conservation officer loses direct line of sight to the person at any point in time.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER III. INSPECTION AND FISHING LICENSE DISPLAY UPON REQUEST",
+        "subchapter": "SUBCHAPTER III. INSPECTION AND FISHING LICENSE DISPLAY UPON REQUEST",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 57,
+      "old_citation": "7 M.S.C. 1 § 1302(c)",
+      "legacy_section": "1302",
+      "subsection": "(c)",
+      "text": "(c) The search only applies to the person's immediate body, and does not extend towards any other form of external storage.\nN/A\nN/A\nN/A",
+      "status": "INACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER III. INSPECTION AND FISHING LICENSE DISPLAY UPON REQUEST",
+        "subchapter": "SUBCHAPTER III. INSPECTION AND FISHING LICENSE DISPLAY UPON REQUEST",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 61,
+      "old_citation": "7 M.S.C. 1 § 1401",
+      "legacy_section": "1401",
+      "subsection": "",
+      "text": "Any person who obtains, whether by fishing or by not fishing, any fish stipulated in 7 M.S.C. 2 § 3101 shall dispose of the fish by removing it from their immediate person or external method of storage.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER IV. DISPOSAL OF PROHIBITED FISH",
+        "subchapter": "SUBCHAPTER IV. DISPOSAL OF PROHIBITED FISH",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 65,
+      "old_citation": "7 M.S.C. 1 § 1501",
+      "legacy_section": "1501",
+      "subsection": "",
+      "text": "If an employee of the Mayflower Parks and Wildlife Department is not considered a peace officer under 7 M.S.C. 1 § 1101 but is still considered a conservation officer under 7 M.S.C. 1 § 1101, then they may issue citations for offenses listed in Subtitle 2 of this Title in accordance with department guidelines.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER V. CONSERVATION OFFICER AUTHORITY TO ISSUE CITATIONS",
+        "subchapter": "SUBCHAPTER V. CONSERVATION OFFICER AUTHORITY TO ISSUE CITATIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 72,
+      "old_citation": "7 M.S.C. 1 § 2101",
+      "legacy_section": "2101",
+      "subsection": "",
+      "text": "The term “wood” includes:\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 73,
+      "old_citation": "7 M.S.C. 1 § 2101(a)",
+      "legacy_section": "2101",
+      "subsection": "(a)",
+      "text": "(a) parts of a tree;\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 74,
+      "old_citation": "7 M.S.C. 1 § 2101(b)",
+      "legacy_section": "2101",
+      "subsection": "(b)",
+      "text": "(b) logs, branches, and wood chips cut from a tree;\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 75,
+      "old_citation": "7 M.S.C. 1 § 2101(c)",
+      "legacy_section": "2101",
+      "subsection": "(c)",
+      "text": "(c) planks processed from logs or branches of a tree.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 76,
+      "old_citation": "7 M.S.C. 1 § 2102",
+      "legacy_section": "2102",
+      "subsection": "",
+      "text": "The term “logging license” shall refer to:\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 77,
+      "old_citation": "7 M.S.C. 1 § 2102(a)",
+      "legacy_section": "2102",
+      "subsection": "(a)",
+      "text": "(a) A license or permit issued under this title for the purposes of cutting trees and processing parts of a tree into planks, but does not include a commercial license.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 78,
+      "old_citation": "7 M.S.C. 1 § 2103",
+      "legacy_section": "2103",
+      "subsection": "",
+      "text": "The term “commercial logging license” shall refer to:\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 79,
+      "old_citation": "7 M.S.C. 1 § 2103(a)",
+      "legacy_section": "2103",
+      "subsection": "(a)",
+      "text": "(a) A license or permit issued under this title to a registered business entity.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 80,
+      "old_citation": "7 M.S.C. 1 § 2104",
+      "legacy_section": "2104",
+      "subsection": "",
+      "text": "The term “logging area” shall refer to:\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 81,
+      "old_citation": "7 M.S.C. 1 § 2104(a)",
+      "legacy_section": "2104",
+      "subsection": "(a)",
+      "text": "(a) A forest or other area designated by the central authority for the purpose of logging where trees may be cut down or turned into planks.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 82,
+      "old_citation": "7 M.S.C. 1 § 2105",
+      "legacy_section": "2105",
+      "subsection": "",
+      "text": "The term “logging device” shall refer to:\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 83,
+      "old_citation": "7 M.S.C. 1 § 2105(a)",
+      "legacy_section": "2105",
+      "subsection": "(a)",
+      "text": "(a) Any machine, equipment, or contrivance specifically designed for and capable of cutting down trees or processing trees into planks.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 87,
+      "old_citation": "7 M.S.C. 1 § 2201",
+      "legacy_section": "2201",
+      "subsection": "",
+      "text": "Any person who wishes to log trees in any logging area shall be required to possess a logging license.\nN/A\nN/A\nN/A",
+      "status": "REPEALED",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER II. REQUIREMENTS TO LOG",
+        "subchapter": "SUBCHAPTER II. REQUIREMENTS TO LOG",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 88,
+      "old_citation": "7 M.S.C. 1 § 2202",
+      "legacy_section": "2202",
+      "subsection": "",
+      "text": "Any registered business which, as part of its business operations, logs trees in a logging area shall be required to possess a commercial logging license.\nN/A\nN/A\nN/A",
+      "status": "REPEALED",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER II. REQUIREMENTS TO LOG",
+        "subchapter": "SUBCHAPTER II. REQUIREMENTS TO LOG",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 89,
+      "old_citation": "7 M.S.C. 1 § 2202(a)",
+      "legacy_section": "2202",
+      "subsection": "(a)",
+      "text": "(a) Upon receiving a commercial logging license, the owner of the business entity or the employee in charge of obtaining the commercial logging license shall notify the Department of State of such.\nN/A\nN/A\nN/A",
+      "status": "REPEALED",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER II. REQUIREMENTS TO LOG",
+        "subchapter": "SUBCHAPTER II. REQUIREMENTS TO LOG",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 90,
+      "old_citation": "7 M.S.C. 1 § 2202(b)",
+      "legacy_section": "2202",
+      "subsection": "(b)",
+      "text": "(b) Any employee of a business entity with a commercial logging license does not exempt them from the requirement to possess a logging license as stipulated in 7 M.S.C. 1 § 2201.\nN/A\nN/A\nN/A",
+      "status": "REPEALED",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER II. REQUIREMENTS TO LOG",
+        "subchapter": "SUBCHAPTER II. REQUIREMENTS TO LOG",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 91,
+      "old_citation": "7 M.S.C. 1 § 2203",
+      "legacy_section": "2203",
+      "subsection": "",
+      "text": "Any person may possess a logging device, however no person shall use a logging device to log trees in any logging area unless:\nN/A\nN/A\nN/A",
+      "status": "REPEALED",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER II. REQUIREMENTS TO LOG",
+        "subchapter": "SUBCHAPTER II. REQUIREMENTS TO LOG",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 92,
+      "old_citation": "7 M.S.C. 1 § 2203(a)",
+      "legacy_section": "2203",
+      "subsection": "(a)",
+      "text": "(a) that person possesses a logging license; or\nN/A\nN/A\nN/A",
+      "status": "REPEALED",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER II. REQUIREMENTS TO LOG",
+        "subchapter": "SUBCHAPTER II. REQUIREMENTS TO LOG",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 93,
+      "old_citation": "7 M.S.C. 1 § 2203(b)",
+      "legacy_section": "2203",
+      "subsection": "(b)",
+      "text": "(b) that person is employed by a business entity that has a commercial logging license and is logging trees solely for the business entity.\nN/A\nN/A\nN/A",
+      "status": "REPEALED",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER II. REQUIREMENTS TO LOG",
+        "subchapter": "SUBCHAPTER II. REQUIREMENTS TO LOG",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 97,
+      "old_citation": "7 M.S.C. 1 § 2301",
+      "legacy_section": "2301",
+      "subsection": "",
+      "text": "Any person observed by a conservation officer to be engaged in logging trees, with or without the use of a logging device, shall be required to display their logging license.\nN/A\nN/A\nN/A",
+      "status": "REPEALED",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER III. INSPECTION AND LOGGING LICENSE DISPLAY UPON REQUEST",
+        "subchapter": "SUBCHAPTER III. INSPECTION AND LOGGING LICENSE DISPLAY UPON REQUEST",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 98,
+      "old_citation": "7 M.S.C. 1 § 2301(a)",
+      "legacy_section": "2301",
+      "subsection": "(a)",
+      "text": "(a) Any person that is an employee of a business entity that possesses a commercial logging license and is engaged in logging trees for that business entity must, in addition to this code, communicate to the conservation officer the business entity that they are working under.\nN/A\nN/A\nN/A",
+      "status": "REPEALED",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER III. INSPECTION AND LOGGING LICENSE DISPLAY UPON REQUEST",
+        "subchapter": "SUBCHAPTER III. INSPECTION AND LOGGING LICENSE DISPLAY UPON REQUEST",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 99,
+      "old_citation": "7 M.S.C. 1 § 2302",
+      "legacy_section": "2302",
+      "subsection": "",
+      "text": "Any person in possession of a logging license and is observed by a conservation officer to be engaged in logging shall have their person and current vehicle liable to search by the aforementioned conservation officer provided that there are reasonable grounds to do so.\nN/A\nN/A\nN/A",
+      "status": "REPEALED",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER III. INSPECTION AND LOGGING LICENSE DISPLAY UPON REQUEST",
+        "subchapter": "SUBCHAPTER III. INSPECTION AND LOGGING LICENSE DISPLAY UPON REQUEST",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 100,
+      "old_citation": "7 M.S.C. 1 § 2302(a)",
+      "legacy_section": "2302",
+      "subsection": "(a)",
+      "text": "(a) Any person upon purchasing or obtaining a logging license agrees that if they are observed to be engaged in logging trees by a conservation officer, with or without the use of a logging device, then their person and current vehicle is liable to search by the aforementioned conservation officer provided that there are reasonable grounds to do so.\nN/A\nN/A\nN/A",
+      "status": "REPEALED",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER III. INSPECTION AND LOGGING LICENSE DISPLAY UPON REQUEST",
+        "subchapter": "SUBCHAPTER III. INSPECTION AND LOGGING LICENSE DISPLAY UPON REQUEST",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 101,
+      "old_citation": "7 M.S.C. 1 § 2302(b)",
+      "legacy_section": "2302",
+      "subsection": "(b)",
+      "text": "(b) An observation of a person engaged in logging trees is considered void if the conservation officer loses direct line of sight to the person at any point in time.\nN/A\nN/A\nN/A",
+      "status": "REPEALED",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER III. INSPECTION AND LOGGING LICENSE DISPLAY UPON REQUEST",
+        "subchapter": "SUBCHAPTER III. INSPECTION AND LOGGING LICENSE DISPLAY UPON REQUEST",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 105,
+      "old_citation": "7 M.S.C. 1 § 2401",
+      "legacy_section": "2401",
+      "subsection": "",
+      "text": "Any person who obtains, whether by logging or by not logging, any wood stipulated in 7 M.S.C. 2 § 3201(a) shall dispose of the wood by removing it from their immediate person or external method of storage.\nN/A\nN/A\nN/A",
+      "status": "REPEALED",
+      "context": {
+        "subtitle": "SUBTITLE 1:",
+        "chapter": "CHAPTER IV. DISPOSAL OF PROHIBITED TIMBER",
+        "subchapter": "SUBCHAPTER IV. DISPOSAL OF PROHIBITED TIMBER",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 116,
+      "old_citation": "7 M.S.C. 2 § 1101",
+      "legacy_section": "1101",
+      "subsection": "",
+      "text": "Fishing without a license shall be a misdemeanor defined as:\nMISDEMEANOR\n$500\n10",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. RELATING TO FISHING",
+        "subchapter": "SUBCHAPTER I. RELATING TO FISHING",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 117,
+      "old_citation": "7 M.S.C. 2 § 1101(a)",
+      "legacy_section": "1101",
+      "subsection": "(a)",
+      "text": "(a) Engaging in capturing fish, with or without the use of a capture device, without possessing a fishing license.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. RELATING TO FISHING",
+        "subchapter": "SUBCHAPTER I. RELATING TO FISHING",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 118,
+      "old_citation": "7 M.S.C. 2 § 1102",
+      "legacy_section": "1102",
+      "subsection": "",
+      "text": "Fishing prohibited fish shall be a misdemeanor defined as:\nMISDEMEANOR\n$870\n15",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. RELATING TO FISHING",
+        "subchapter": "SUBCHAPTER I. RELATING TO FISHING",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 119,
+      "old_citation": "7 M.S.C. 2 § 1102(a)",
+      "legacy_section": "1102",
+      "subsection": "(a)",
+      "text": "(a) Fishing any fish categorized as endangered or protected in 7 M.S.C. 2 § 3101, and includes possession of any prohibited fish.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. RELATING TO FISHING",
+        "subchapter": "SUBCHAPTER I. RELATING TO FISHING",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 120,
+      "old_citation": "7 M.S.C. 2 § 1103",
+      "legacy_section": "1103",
+      "subsection": "",
+      "text": "Suspicious Hazarding of a Salmon or Trout shall be an infraction defined as:\nINFRACTION\n$5\nN/A",
+      "status": "INACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. RELATING TO FISHING",
+        "subchapter": "SUBCHAPTER I. RELATING TO FISHING",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 121,
+      "old_citation": "7 M.S.C. 2 § 1103(a)",
+      "legacy_section": "1103",
+      "subsection": "(a)",
+      "text": "(a) Handling a salmon or trout in suspicious circumstances.\nN/A\nN/A\nN/A",
+      "status": "INACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. RELATING TO FISHING",
+        "subchapter": "SUBCHAPTER I. RELATING TO FISHING",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 122,
+      "old_citation": "7 M.S.C. 2 § 1104",
+      "legacy_section": "1104",
+      "subsection": "",
+      "text": "Fishing on protected lands shall be an infraction defined as:\nINFRACTION\n$920\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. RELATING TO FISHING",
+        "subchapter": "SUBCHAPTER I. RELATING TO FISHING",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 123,
+      "old_citation": "7 M.S.C. 2 § 1104(a)",
+      "legacy_section": "1104",
+      "subsection": "(a)",
+      "text": "(a) Engaging in fishing on land, waterway, or fish habitat protected by the Director of Parks and Wildlife or the Senate.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. RELATING TO FISHING",
+        "subchapter": "SUBCHAPTER I. RELATING TO FISHING",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 124,
+      "old_citation": "7 M.S.C. 2 § 1104(a)(i)",
+      "legacy_section": "1104",
+      "subsection": "(a)(i)",
+      "text": "(i) In the case that the Director of Parks and Wildlife declares any land, waterway, or fish habitat to be protected, the Director of Parks and Wildlife shall maintain a publicly available registry of such. The Director of Parks and Wildlfie shall declare such land, waterway, or fish habitat only as is necessary for the adequate protection of the State's ecosystem while maintaining adequate recreational space for all people.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. RELATING TO FISHING",
+        "subchapter": "SUBCHAPTER I. RELATING TO FISHING",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 125,
+      "old_citation": "7 M.S.C. 2 § 1104(a)(ii)",
+      "legacy_section": "1104",
+      "subsection": "(a)(ii)",
+      "text": "(ii) The following land, waterway, or fish habitat shall be considered protected by the Senate:\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. RELATING TO FISHING",
+        "subchapter": "SUBCHAPTER I. RELATING TO FISHING",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 126,
+      "old_citation": "7 M.S.C. 2 § 1105",
+      "legacy_section": "1105",
+      "subsection": "",
+      "text": "Unlawful disposure of a motor vehicle into a fish habitat shall be a misdemeanor defined as:\nMISDEMEANOR\n$1,500\n18",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. RELATING TO FISHING",
+        "subchapter": "SUBCHAPTER I. RELATING TO FISHING",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 127,
+      "old_citation": "7 M.S.C. 2 § 1105(a)",
+      "legacy_section": "1105",
+      "subsection": "(a)",
+      "text": "(a) Willingly operating a motor vehicle to direct it into a fish habitat where the entire motor vehicle is submerged.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. RELATING TO FISHING",
+        "subchapter": "SUBCHAPTER I. RELATING TO FISHING",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 128,
+      "old_citation": "7 M.S.C. 2 § 1105(a)(i)",
+      "legacy_section": "1105",
+      "subsection": "(a)(i)",
+      "text": "(i) This offense shall not extend to persons normally exempted from Title 2 under 4 M.S.C. 5 §§ 2301-2302(b).\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. RELATING TO FISHING",
+        "subchapter": "SUBCHAPTER I. RELATING TO FISHING",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 129,
+      "old_citation": "7 M.S.C. 2 § 1106",
+      "legacy_section": "1106",
+      "subsection": "",
+      "text": "Prohibited Fishing off of a Bridge shall be an infraction defined as:\nINFRACTION\n$500\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. RELATING TO FISHING",
+        "subchapter": "SUBCHAPTER I. RELATING TO FISHING",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 130,
+      "old_citation": "7 M.S.C. 2 § 1106(a)",
+      "legacy_section": "1106",
+      "subsection": "(a)",
+      "text": "(a) Any person who fishes from any bridge shall be guilty of an infraction.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. RELATING TO FISHING",
+        "subchapter": "SUBCHAPTER I. RELATING TO FISHING",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 134,
+      "old_citation": "7 M.S.C. 2 § 1201",
+      "legacy_section": "1201",
+      "subsection": "",
+      "text": "Logging Without a License shall be a misdemeanor defined as:\nMISDEMEANOR\n$1,000\n10",
+      "status": "INACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER II. RELATED TO LOGGING AND TIMBER",
+        "subchapter": "SUBCHAPTER II. RELATED TO LOGGING AND TIMBER",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 135,
+      "old_citation": "7 M.S.C. 2 § 1201(a)",
+      "legacy_section": "1201",
+      "subsection": "(a)",
+      "text": "(a) Engaging in logging trees, with or without the use of a logging device, without possessing a logging license.\nN/A\nN/A\nN/A",
+      "status": "INACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER II. RELATED TO LOGGING AND TIMBER",
+        "subchapter": "SUBCHAPTER II. RELATED TO LOGGING AND TIMBER",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 136,
+      "old_citation": "7 M.S.C. 2 § 1202",
+      "legacy_section": "1202",
+      "subsection": "",
+      "text": "Logging Prohibited Trees shall be a misdemeanor defined as:\nMISDEMEANOR\n$5,000\n15",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER II. RELATED TO LOGGING AND TIMBER",
+        "subchapter": "SUBCHAPTER II. RELATED TO LOGGING AND TIMBER",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 137,
+      "old_citation": "7 M.S.C. 2 § 1202(a)",
+      "legacy_section": "1202",
+      "subsection": "(a)",
+      "text": "(a) Logging any trees categorized as endangered or protected in 7 M.S.C. 2 § 3201(a), and includes possession of any prohibited wood.\nN/A\nN/A\nN/A",
+      "status": "INACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER II. RELATED TO LOGGING AND TIMBER",
+        "subchapter": "SUBCHAPTER II. RELATED TO LOGGING AND TIMBER",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 138,
+      "old_citation": "7 M.S.C. 2 § 1203",
+      "legacy_section": "1203",
+      "subsection": "",
+      "text": "Logging on Protected Lands shall be a misdemeanor defined as:\nMISDEMEANOR\n$2,000\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER II. RELATED TO LOGGING AND TIMBER",
+        "subchapter": "SUBCHAPTER II. RELATED TO LOGGING AND TIMBER",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 139,
+      "old_citation": "7 M.S.C. 2 § 1203(a)",
+      "legacy_section": "1203",
+      "subsection": "(a)",
+      "text": "(a) Engaging in logging on any land, forest, or logging area protected by the Director of Parks and Wildlife or the Senate.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER II. RELATED TO LOGGING AND TIMBER",
+        "subchapter": "SUBCHAPTER II. RELATED TO LOGGING AND TIMBER",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 140,
+      "old_citation": "7 M.S.C. 2 § 1203(a)(i)",
+      "legacy_section": "1203",
+      "subsection": "(a)(i)",
+      "text": "(i) In the case that the Director of Parks and Wildlife declares any land, forest, or logging area to be protected, the Director of Parks and Wildlife shall maintain a publicly available registry of such. The Director of Parks and Wildlife shall declare such land, forest, or logging area only as is necessary for the adequate protection of the State’s ecosystem while maintaining adequate recreational space for all people.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER II. RELATED TO LOGGING AND TIMBER",
+        "subchapter": "SUBCHAPTER II. RELATED TO LOGGING AND TIMBER",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 141,
+      "old_citation": "7 M.S.C. 2 § 1204",
+      "legacy_section": "1204",
+      "subsection": "",
+      "text": "Arson within a Logging Area shall be a misdemeanor defined as:\nFELONY\nN/A\n25",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER II. RELATED TO LOGGING AND TIMBER",
+        "subchapter": "SUBCHAPTER II. RELATED TO LOGGING AND TIMBER",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 142,
+      "old_citation": "7 M.S.C. 2 § 1204(a)",
+      "legacy_section": "1204",
+      "subsection": "(a)",
+      "text": "(a) Willingly setting fire to trees or another person's property or discharging any device with explosive ordinance within a logging area.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER II. RELATED TO LOGGING AND TIMBER",
+        "subchapter": "SUBCHAPTER II. RELATED TO LOGGING AND TIMBER",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 143,
+      "old_citation": "7 M.S.C. 2 § 1205",
+      "legacy_section": "1205",
+      "subsection": "",
+      "text": "Logging within City Limits shall be a misdemeanor defined as:\nMISDEMEANOR\n$2,000\n10",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER II. RELATED TO LOGGING AND TIMBER",
+        "subchapter": "SUBCHAPTER II. RELATED TO LOGGING AND TIMBER",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 144,
+      "old_citation": "7 M.S.C. 2 § 1205(a)",
+      "legacy_section": "1205",
+      "subsection": "(a)",
+      "text": "(a) Logging any trees within the Cities of Lander or Winchester without permission from their respective municipal governments.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER II. RELATED TO LOGGING AND TIMBER",
+        "subchapter": "SUBCHAPTER II. RELATED TO LOGGING AND TIMBER",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 145,
+      "old_citation": "7 M.S.C. 2 § 1206",
+      "legacy_section": "1206",
+      "subsection": "",
+      "text": "Logging Outside of a Logging Area shall be a misdemeanor defined as:\nMISDEMEANOR\n$2,000\n10",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER II. RELATED TO LOGGING AND TIMBER",
+        "subchapter": "SUBCHAPTER II. RELATED TO LOGGING AND TIMBER",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 146,
+      "old_citation": "7 M.S.C. 2 § 1206(a)",
+      "legacy_section": "1206",
+      "subsection": "(a)",
+      "text": "(a) Logging any trees outside of a marked logging area without permission of the Director of Parks and Wildlife, or if the tree is on private land the landowner’s permission.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER II. RELATED TO LOGGING AND TIMBER",
+        "subchapter": "SUBCHAPTER II. RELATED TO LOGGING AND TIMBER",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 153,
+      "old_citation": "7 M.S.C. 2 § 2101",
+      "legacy_section": "2101",
+      "subsection": "",
+      "text": "Prohibited Sale of Fish shall be a felony defined as:\nFELONY\nN/A\n15",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. RELATING TO NATURAL RESOURCES",
+        "subchapter": "SUBCHAPTER I. RELATING TO NATURAL RESOURCES",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 154,
+      "old_citation": "7 M.S.C. 2 § 2101(a)",
+      "legacy_section": "2101",
+      "subsection": "(a)",
+      "text": "(a) Putting for commercial sale fish or fish byproducts obtained illegally, such as through unlicensed fishing.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. RELATING TO NATURAL RESOURCES",
+        "subchapter": "SUBCHAPTER I. RELATING TO NATURAL RESOURCES",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 155,
+      "old_citation": "7 M.S.C. 2 § 2102",
+      "legacy_section": "2102",
+      "subsection": "",
+      "text": "Failure to Comply with Inspection shall be a misdemeanor defined as:\nMISDEMEANOR\n$1,200\n10",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. RELATING TO NATURAL RESOURCES",
+        "subchapter": "SUBCHAPTER I. RELATING TO NATURAL RESOURCES",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 156,
+      "old_citation": "7 M.S.C. 2 § 2102(a)",
+      "legacy_section": "2102",
+      "subsection": "(a)",
+      "text": "(a) Failing to comply with an inspection of fishing or hunting permit by a conservation officer.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. RELATING TO NATURAL RESOURCES",
+        "subchapter": "SUBCHAPTER I. RELATING TO NATURAL RESOURCES",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 157,
+      "old_citation": "7 M.S.C. 2 § 2103",
+      "legacy_section": "2103",
+      "subsection": "",
+      "text": "Prohibited Sale of Timber shall be a misdemeanor defined as:\nFELONY\nN/A\n15",
+      "status": "INACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. RELATING TO NATURAL RESOURCES",
+        "subchapter": "SUBCHAPTER I. RELATING TO NATURAL RESOURCES",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 158,
+      "old_citation": "7 M.S.C. 2 § 2103(a)",
+      "legacy_section": "2103",
+      "subsection": "(a)",
+      "text": "(a) Putting for commercial sale wood or other wood byproducts obtained illegally, such as through unlicensed logging.\nN/A\nN/A\nN/A",
+      "status": "INACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. RELATING TO NATURAL RESOURCES",
+        "subchapter": "SUBCHAPTER I. RELATING TO NATURAL RESOURCES",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 165,
+      "old_citation": "7 M.S.C. 2 § 3101",
+      "legacy_section": "3101",
+      "subsection": "",
+      "text": "Any of the following fish shall be considered prohibited for the purposes of 7 M.S.C. 2 § 1102:\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. PROHIBITED FISH",
+        "subchapter": "SUBCHAPTER I. PROHIBITED FISH",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 166,
+      "old_citation": "7 M.S.C. 2 § 3101(a)",
+      "legacy_section": "3101",
+      "subsection": "(a)",
+      "text": "(a) Protected fish shall include:\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. PROHIBITED FISH",
+        "subchapter": "SUBCHAPTER I. PROHIBITED FISH",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 167,
+      "old_citation": "7 M.S.C. 2 § 3101(a)(i)",
+      "legacy_section": "3101",
+      "subsection": "(a)(i)",
+      "text": "(i) Trollfish, provided that the trollfish is of the twenty (20), twenty-four (24), or thirty (30) pound variant.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. PROHIBITED FISH",
+        "subchapter": "SUBCHAPTER I. PROHIBITED FISH",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 168,
+      "old_citation": "7 M.S.C. 2 § 3101(a)(ii)",
+      "legacy_section": "3101",
+      "subsection": "(a)(ii)",
+      "text": "(ii) Minishark, provided that the minishark is of the forty (40), fifty (50), or sixty (60) pound variant.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. PROHIBITED FISH",
+        "subchapter": "SUBCHAPTER I. PROHIBITED FISH",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 169,
+      "old_citation": "7 M.S.C. 2 § 3101(b)",
+      "legacy_section": "3101",
+      "subsection": "(b)",
+      "text": "(b) Undersized fish shall include:\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. PROHIBITED FISH",
+        "subchapter": "SUBCHAPTER I. PROHIBITED FISH",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 170,
+      "old_citation": "7 M.S.C. 2 § 3101(b)(i)",
+      "legacy_section": "3101",
+      "subsection": "(b)(i)",
+      "text": "(i) Salmon, provided that the salmon is of the eight (8) pound variant.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. PROHIBITED FISH",
+        "subchapter": "SUBCHAPTER I. PROHIBITED FISH",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 171,
+      "old_citation": "7 M.S.C. 2 § 3101(b)(ii)",
+      "legacy_section": "3101",
+      "subsection": "(b)(ii)",
+      "text": "(ii) Trout, provided that the trout is of the twelve (12) pound variant.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. PROHIBITED FISH",
+        "subchapter": "SUBCHAPTER I. PROHIBITED FISH",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 172,
+      "old_citation": "7 M.S.C. 2 § 3101(b)(iii)",
+      "legacy_section": "3101",
+      "subsection": "(b)(iii)",
+      "text": "(iii) Clam, provided that the clam is of the one (1) pound variant.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. PROHIBITED FISH",
+        "subchapter": "SUBCHAPTER I. PROHIBITED FISH",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 173,
+      "old_citation": "7 M.S.C. 2 § 3101(c)",
+      "legacy_section": "3101",
+      "subsection": "(c)",
+      "text": "(c) Oversized fish shall include:\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. PROHIBITED FISH",
+        "subchapter": "SUBCHAPTER I. PROHIBITED FISH",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 174,
+      "old_citation": "7 M.S.C. 2 § 3101(c)(i)",
+      "legacy_section": "3101",
+      "subsection": "(c)(i)",
+      "text": "(i) Bass, provided that the bass is of the sixteen (16) pound variant.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. PROHIBITED FISH",
+        "subchapter": "SUBCHAPTER I. PROHIBITED FISH",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 175,
+      "old_citation": "7 M.S.C. 2 § 3101(c)(ii)",
+      "legacy_section": "3101",
+      "subsection": "(c)(ii)",
+      "text": "(ii) Lobster, provided that the lobster is of the four (4) pound variant.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. PROHIBITED FISH",
+        "subchapter": "SUBCHAPTER I. PROHIBITED FISH",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 176,
+      "old_citation": "7 M.S.C. 2 § 3101(c)(iii)",
+      "legacy_section": "3101",
+      "subsection": "(c)(iii)",
+      "text": "(iii) Sturgeon, provided that the sturgeon is of the fifty (50) pound variant.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER I. PROHIBITED FISH",
+        "subchapter": "SUBCHAPTER I. PROHIBITED FISH",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 180,
+      "old_citation": "7 M.S.C. 2 § 3201",
+      "legacy_section": "3201",
+      "subsection": "",
+      "text": "Any of the following trees shall be prohibited for the purposes of 7 M.S.C. 2 § 1202.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER II. PROHIBITED TREES",
+        "subchapter": "SUBCHAPTER II. PROHIBITED TREES",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 181,
+      "old_citation": "7 M.S.C. 2 § 3201(a)",
+      "legacy_section": "3201",
+      "subsection": "(a)",
+      "text": "(a) Protected trees shall include:\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER II. PROHIBITED TREES",
+        "subchapter": "SUBCHAPTER II. PROHIBITED TREES",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 182,
+      "old_citation": "7 M.S.C. 2 § 3201(a)(i)",
+      "legacy_section": "3201",
+      "subsection": "(a)(i)",
+      "text": "(i) Amaranth Trees.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER II. PROHIBITED TREES",
+        "subchapter": "SUBCHAPTER II. PROHIBITED TREES",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 183,
+      "old_citation": "7 M.S.C. 2 § 3201(a)(ii)",
+      "legacy_section": "3201",
+      "subsection": "(a)(ii)",
+      "text": "(ii) Rosewood Trees.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 2:",
+        "chapter": "CHAPTER II. PROHIBITED TREES",
+        "subchapter": "SUBCHAPTER II. PROHIBITED TREES",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 194,
+      "old_citation": "7 M.S.C. 3 § 1101",
+      "legacy_section": "1101",
+      "subsection": "",
+      "text": "The Mayflower Parks and Wildlife Department shall have the jurisdiction to conduct their lawful duties which shall include the enforcement of Title 7, the operation of established local/state parks, protected forests and designated areas of cultural significance or natural beauty, and any other additional duties established within the Mayflower State Code.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 195,
+      "old_citation": "7 M.S.C. 1 § 1102",
+      "legacy_section": "1102",
+      "subsection": "",
+      "text": "Conservation officers shall be limited to enforcing Title 7 and shall not act as peace officers unless officially designated and registered as such by the Director of Parks and Wildlife.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 196,
+      "old_citation": "7 M.S.C. 1 § 1102(a)",
+      "legacy_section": "1102",
+      "subsection": "(a)",
+      "text": "(a) This does not prevent them from acting in defense of self/others or ensuring the safety of the public in absence of law enforcement.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 197,
+      "old_citation": "7 M.S.C. 1 § 1103",
+      "legacy_section": "1103",
+      "subsection": "",
+      "text": "Any Parks and Wildlife tactical or investigations unit/body must be composed solely of certified peace officers and is also bound by the provisions of this act.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER I. DEFINITIONS",
+        "subchapter": "SUBCHAPTER I. DEFINITIONS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 201,
+      "old_citation": "7 M.S.C. 1 § 1201",
+      "legacy_section": "1201",
+      "subsection": "",
+      "text": "Members of the Parks and Wildlife Department shall have the ability to enact road closure within a state park for the purpose of—\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER II. ROAD CLOSURES AND CHECKPOINTS",
+        "subchapter": "SUBCHAPTER II. ROAD CLOSURES AND CHECKPOINTS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 202,
+      "old_citation": "7 M.S.C. 1 § 1201(a)",
+      "legacy_section": "1201",
+      "subsection": "(a)",
+      "text": "(a) responding to and clearing motor vehicle accidents;\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER II. ROAD CLOSURES AND CHECKPOINTS",
+        "subchapter": "SUBCHAPTER II. ROAD CLOSURES AND CHECKPOINTS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 203,
+      "old_citation": "7 M.S.C. 1 § 1201(b)",
+      "legacy_section": "1201",
+      "subsection": "(b)",
+      "text": "(b) clearing and or otherwise managing hazards on roadways within a state park;\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER II. ROAD CLOSURES AND CHECKPOINTS",
+        "subchapter": "SUBCHAPTER II. ROAD CLOSURES AND CHECKPOINTS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 204,
+      "old_citation": "7 M.S.C. 1 § 1201(c)",
+      "legacy_section": "1201",
+      "subsection": "(c)",
+      "text": "(c) enforcing Title 7; or\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER II. ROAD CLOSURES AND CHECKPOINTS",
+        "subchapter": "SUBCHAPTER II. ROAD CLOSURES AND CHECKPOINTS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 205,
+      "old_citation": "7 M.S.C. 1 § 1201(d)",
+      "legacy_section": "1201",
+      "subsection": "(d)",
+      "text": "(d) conducting maintenance on a public road within a state park.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER II. ROAD CLOSURES AND CHECKPOINTS",
+        "subchapter": "SUBCHAPTER II. ROAD CLOSURES AND CHECKPOINTS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 206,
+      "old_citation": "7 M.S.C. 1 § 1202",
+      "legacy_section": "1202",
+      "subsection": "",
+      "text": "Provided at least one Parks and Wildlife peace officer is present, members of the Parks and Wildlife Department shall have the ability to conduct checkpoints within a state park for the purpose of:\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER II. ROAD CLOSURES AND CHECKPOINTS",
+        "subchapter": "SUBCHAPTER II. ROAD CLOSURES AND CHECKPOINTS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 207,
+      "old_citation": "7 M.S.C. 1 § 1202(a)",
+      "legacy_section": "1202",
+      "subsection": "(a)",
+      "text": "(a) enforcing Title 7 and conducting Title 7 inspections.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER II. ROAD CLOSURES AND CHECKPOINTS",
+        "subchapter": "SUBCHAPTER II. ROAD CLOSURES AND CHECKPOINTS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 208,
+      "old_citation": "7 M.S.C. 1 § 1202(a)(i)",
+      "legacy_section": "1202",
+      "subsection": "(a)(i)",
+      "text": "(i) Any person traveling within a state park may be subject to a Title 7 inspection at an established checkpoint within a state park.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER II. ROAD CLOSURES AND CHECKPOINTS",
+        "subchapter": "SUBCHAPTER II. ROAD CLOSURES AND CHECKPOINTS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 212,
+      "old_citation": "7 M.S.C. 1 § 1301",
+      "legacy_section": "1301",
+      "subsection": "",
+      "text": "Parks and Wildlife peace officers shall enforce and/or investigate elements of the criminal code (Title 1 of the M.S.C.) and elements of the vehicle code (Title 2 of the M.S.C), subject to the limitation that at least one of the following criteria must be met:\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "subchapter": "SUBCHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 213,
+      "old_citation": "7 M.S.C. 1 § 1301(a)",
+      "legacy_section": "1301",
+      "subsection": "(a)",
+      "text": "(a) The offender endangers or harms Parks and Wildlife Department personnel; visitors utilizing Parks and Wildlife facilities; players engaging in recreational or natural resource (including but not limited to fishing, logging, hunting, and mining) activities;\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "subchapter": "SUBCHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 214,
+      "old_citation": "7 M.S.C. 1 § 1301(b)",
+      "legacy_section": "1301",
+      "subsection": "(b)",
+      "text": "(b) The offense was committed against or in relation to the Parks and Wildlife Department;\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "subchapter": "SUBCHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 215,
+      "old_citation": "7 M.S.C. 1 § 1301(c)",
+      "legacy_section": "1301",
+      "subsection": "(c)",
+      "text": "(c) The offense was committed within or in eyesight of any of the following: property or infrastructure owned, maintained, or administered by the Parks and Wildlife Department; official operations or events conducted by the Parks and Wildlife Department; designated natural resource (including but not limited to fishing, logging, hunting, and mining) or recreational areas; state or local parks, hiking trails, and camping grounds;\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "subchapter": "SUBCHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 216,
+      "old_citation": "7 M.S.C. 1 § 1301(d)",
+      "legacy_section": "1301",
+      "subsection": "(d)",
+      "text": "(d) The offense relates to environmental harm or illegal natural resource activities;\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "subchapter": "SUBCHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 217,
+      "old_citation": "7 M.S.C. 1 § 1301(e)",
+      "legacy_section": "1301",
+      "subsection": "(e)",
+      "text": "(e) A Parks and Wildlife peace officer witnesses a felony offense or an offense that poses a significant danger to the general public or a threat to public safety;\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "subchapter": "SUBCHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 218,
+      "old_citation": "7 M.S.C. 1 § 1301(f)",
+      "legacy_section": "1301",
+      "subsection": "(f)",
+      "text": "(f) A Parks and Wildlife peace officer is participating in an inter-agency task force or any other similar assignment; or\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "subchapter": "SUBCHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 219,
+      "old_citation": "7 M.S.C. 1 § 1301(g)",
+      "legacy_section": "1301",
+      "subsection": "(g)",
+      "text": "(g) A State of Emergency is declared.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "subchapter": "SUBCHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 220,
+      "old_citation": "7 M.S.C. 1 § 1302",
+      "legacy_section": "1302",
+      "subsection": "",
+      "text": "Parks and Wildlife peace officers shall enforce and/or investigate elements of conservation law (Title 7 of Mayflower State Code) anywhere within the state.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "subchapter": "SUBCHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 221,
+      "old_citation": "7 M.S.C. 1 § 1302(a)",
+      "legacy_section": "1302",
+      "subsection": "(a)",
+      "text": "(a) Parks and Wildlife peace officers shall be empowered to conduct traffic stops on players seen or known to be engaged in activities defined under Title 7. These traffic stops shall be known as “Title 7 traffic stops”.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "subchapter": "SUBCHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 222,
+      "old_citation": "7 M.S.C. 1 § 1302(b)",
+      "legacy_section": "1302",
+      "subsection": "(b)",
+      "text": "(b) The primary purpose of Title 7 traffic stops shall be to conduct Title 7 inspections. However, it shall be permitted for Parks and Wildlife peace officers to ensure that: the driver of the vehicle they stopped has an active driver’s license; the driver of the vehicle has no warrants; and the vehicle is not stolen. If other criminal code or vehicle code violations are observed while conducting a Title 7 traffic stop, Parks and Wildlife peace officers may take appropriate law enforcement action.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "subchapter": "SUBCHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 223,
+      "old_citation": "7 M.S.C. 1 § 1303",
+      "legacy_section": "1303",
+      "subsection": "",
+      "text": "Parks and Wildlife peace officers may: overall ensure public safety within the scope of their duties; support the Parks and Wildlife Department; and collaborate with other law enforcement officers and public safety officials to support their duties.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "subchapter": "SUBCHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 224,
+      "old_citation": "7 M.S.C. 1 § 1303(a)",
+      "legacy_section": "1303",
+      "subsection": "(a)",
+      "text": "(a) Parks and Wildlife peace officers may assist other peace officers who request assistance. This includes but is not limited to “10-58”, “58” (or its equivalent, e.g. panic buttons) calls on the radio or when Parks and Wildlife peace officer assistance is specifically requested.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "subchapter": "SUBCHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 225,
+      "old_citation": "7 M.S.C. 1 § 1303(b)",
+      "legacy_section": "1303",
+      "subsection": "(b)",
+      "text": "(b) Parks and Wildlife peace officers shall have the authority to engage in pursuits only if an offender flees from Parks and Wildlife peace officers and/or conservation officers who are actively or attempting to detain or arrest an individual, given the aforementioned criteria for enforcing the criminal or vehicle code are met, or if assisting other peace officers as per this Act.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "subchapter": "SUBCHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 226,
+      "old_citation": "7 M.S.C. 1 § 1304",
+      "legacy_section": "1304",
+      "subsection": "",
+      "text": "Parks and Wildlife peace officers may perform any other reasonable duties or functions at the discretion of the Director of the Parks and Wildlife Department.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "subchapter": "SUBCHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "part": ""
+      }
+    },
+    {
+      "old_title": 7,
+      "source_row": 227,
+      "old_citation": "7 M.S.C. 1 § 1305",
+      "legacy_section": "1305",
+      "subsection": "",
+      "text": "Violations of this subchapter shall be corrected by the Parks and Wildlife internal affairs body.\nN/A\nN/A\nN/A",
+      "status": "ACTIVE",
+      "context": {
+        "subtitle": "SUBTITLE 3:",
+        "chapter": "CHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "subchapter": "SUBCHAPTER III. PARKS AND WILDLIFE PEACE OFFICERS",
+        "part": ""
+      }
+    }
+  ]
 }
