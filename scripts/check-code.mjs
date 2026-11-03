@@ -31,6 +31,8 @@ for (const s of data.sections) {
   if (s.penalty) add(s.number, 'unverified legacy penalty metadata in published data');
   if (/\b(?:SHORT TITLE|LONG TITLE|may be cited as)\b/i.test(s.text))
     add(s.number, 'nonoperative short-title filler remains');
+  if ((s.parts || []).some(part => /\b(?:SHORT TITLE|LONG TITLE)\b/i.test(part.heading)))
+    add(s.number, 'nonoperative short-title heading remains');
   if (/\b(?:By Conviction|Active status|CA MANDATED)\b/i.test(s.text))
     add(s.number, 'legacy status language remains');
   if (/\bTitle\s+\d+\s*,?\s*(?:Subtitle\s+\d+\s*,?\s*)?Chapter\s+[IVXLCDM\d]+/i.test(s.text)
