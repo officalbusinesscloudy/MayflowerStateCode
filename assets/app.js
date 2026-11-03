@@ -55,9 +55,11 @@ function renderUnits(section,units,level,partIndex=0){
  }).join('')
 }
 function renderStatute(section){
+ const parts=(section.parts||[]).filter(part=>!isShortTitlePart(part));
  if(!section.parts?.length)return section.units?.length?renderUnits(section,section.units,'alpha'):sectionParas(section);
- const many=section.parts.length>1;
- return section.parts.map((part,i)=>{
+ if(!parts.length)return '<p class="empty-note">No operative provision is published in this section.</p>';
+ const many=parts.length>1;
+ return parts.map((part,i)=>{
    const units=part.units||[part.text||''];
    const head='<h3 class="part-heading">'+esc(part.heading)+'</h3>';
    const body=renderUnits(section,units,many?'numeric':'alpha',i);
@@ -78,6 +80,11 @@ function sectionView(s){const c=state.chapterById.get(s.chapter_id),t=state.titl
 function navigate(){if(!state.data)return;const p=params();let html='',s=state.sections.find(s=>String(s.number).toLowerCase()===String(p.get('section')||'').toLowerCase()||(s.legacy?.old_ids||[]).some(x=>String(x).toLowerCase()===String(p.get('section')||'').toLowerCase())),c=state.chapterById.get(p.get('chapter')),t=state.titleById.get(p.get('title'));$('status').textContent='';if(p.has('q')){html=searchResults(p.get('q'))}else if(s){html=sectionView(s)}else if(c){html=chapterView(c)}else if(t){html=titleView(t)}else{html=catalog();if(p.has('section')||p.has('chapter')||p.has('title'))$('status').textContent='Requested provision not found.'}$('content').innerHTML=html;document.querySelectorAll('[data-toc]').forEach(el=>el.classList.toggle('active',el.getAttribute('href')===location.search));if(s){$('copy-citation').addEventListener('click',()=>copy(citation(s)));$('copy-link').addEventListener('click',()=>copy(location.href));$('print-link').addEventListener('click',e=>{e.preventDefault();window.print()})}if(location.hash){requestAnimationFrame(()=>document.getElementById(decodeURIComponent(location.hash.slice(1)))?.scrollIntoView({block:'center'}))}}
 function searchResults(q){q=String(q||'').trim().slice(0,200);$('search').value=q;if(!q)return '<div class="empty-note">Enter a citation or search phrase.</div>';const exact=q.match(/^(?:(\d+[a-z]?)\s*m\.?s\.?c\.?\s*§?\s*)?(?:§\s*|section\s+)?(\d+[a-z]?(?:[-.]\d+[a-z]?)?)(?:\(([a-z0-9ivxlcdm]+)\))?$/i);if(exact){const match=findSection(exact[1]||'',exact[2]);if(match){const sub=exact[3]||'';return '<div class="code-label">Citation match</div><h2>Search results</h2><a class="result" href="'+esc(sectionUrl(match.number,sub))+'"><strong>'+esc(citation(match,sub))+'. '+esc(match.heading)+'</strong><span class="result-meta">Open matching provision</span></a>'}}const lower=q.toLowerCase(),matches=state.sections.filter(s=>(citation(s)+' '+s.number+' '+s.heading+' '+s.text+' '+(s.keywords||[]).join(' ')).toLowerCase().includes(lower));return '<div class="code-label">Full-text search</div><h2>Search results</h2><p class="result-meta">'+matches.length+' matching section(s)</p>'+(matches.length?matches.map(s=>{const text=s.text||'',i=text.toLowerCase().indexOf(lower),excerpt=i<0?'':text.slice(Math.max(0,i-65),i+q.length+120).replace(/\s+/g,' ');return '<a class="result" href="'+esc(sectionUrl(s.number))+'"><strong>§ '+esc(s.number)+'. '+esc(s.heading)+'</strong><p>'+esc(excerpt||s.heading)+'</p></a>'}).join(''):'<p class="empty-note">No sections match this search.</p>')}
 function toc(){const f=$('filter').value.toLowerCase().trim(),d=state.data;$('toc').innerHTML=d.titles.map(t=>{const ch=d.chapters.filter(c=>c.title_id===t.id);const inner=ch.map(c=>{const sections=state.sections.filter(s=>s.chapter_id===c.id);if(f&&!([t.heading,t.number,c.heading,c.number,...sections.flatMap(s=>[s.number,s.heading])].join(' ').toLowerCase().includes(f)))return '';return '<li><a data-toc href="'+esc(chapterUrl(c.id))+'">Chapter '+esc(c.number)+'. '+esc(c.heading)+'</a></li>'}).join('');if(f&&!inner&&!String(t.heading+' '+t.number).toLowerCase().includes(f))return '';return '<div><a class="toc-title" data-toc href="'+esc(titleUrl(t.id))+'"><small>TITLE '+esc(t.number)+'</small>'+esc(t.heading)+'</a><ul class="toc-chapters">'+inner+'</ul></div>'}).join('')||'<p class="result-meta">No matching titles.</p>'}
+function isShortTitlePart(part){
+ const h=String(part?.heading||'').trim();
+ const t=String(part?.text||part?.units?.join(' ')||'').trim();
+ return /^(?:subchapter\\s+[ivxlcdm]+\\s*[—–:-]\\s*)?short title\\.?$/i.test(h) && (!t||/^(?:this (?:chapter|act|title)|the (?:chapter|act)|may be cited as)\\b/i.test(t));
+}
 function isStandaloneShortTitle(s){
  const heading=String(s.heading||'').trim();
  const body=String(s.text||'').trim();
