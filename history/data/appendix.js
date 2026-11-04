@@ -48,54 +48,55 @@ export const appendix = [
     "title": "Figures in Mayflower History",
     "period": "Historical biographies",
     "group": "reference",
-    "summary": "People remembered for settlement, independence, constitutional debate, military service, labor reform, and civic equality.",
+    "summary": "Biographies of people associated with Mayflower's settlement, independence, public institutions, labor movement, and civic reform.",
     "sections": [
       {
-        "heading": "Paul Lander — the river merchant",
+        "heading": "Paul Lander :  the river merchant",
         "paragraphs": [
-          "Paul Lander is traditionally associated with the early river settlement that bears his name. The limited records of seventeenth-century commercial life make it difficult to separate documentary history from later civic legend. He is usually depicted as a merchant who recognized the value of a crossing between the coast and interior.",
-          "The modern city’s name has endured even though the community grew far beyond the original settlement. Public accounts should distinguish the traditional naming story from claims of sole ownership or founding of lands already inhabited and used by indigenous communities."
+          "Paul Lander was a seventeenth-century merchant traditionally associated with the settlement that developed at the river crossing bearing his name. The surviving records provide an incomplete picture of his life, but local accounts credit his commercial activity with attracting traders and warehouse operators to the site.",
+          "Lander's name became attached to a settlement that grew through the work of generations of residents. The river crossing itself had served communities and trade routes before colonial merchants established permanent buildings nearby."
         ]
       },
       {
-        "heading": "Marian Vale — printer and revolutionary advocate",
+        "heading": "Marian Vale :  printer and revolutionary advocate",
         "paragraphs": [
-          "Marian Vale (c. 1748–1811) is remembered in proposed Mayflower civic history as a printer who circulated petitions and accounts of provincial proceedings during the final years of Pax Landeria. Her work represents the influence of pamphlets, newspapers, and private correspondence in linking dispersed communities before the Revolution.",
-          "Accounts of Vale emphasize the political importance of communication rather than military command. She was one of many residents who transformed local grievances into a shared argument about representation and public authority."
+          "Marian Vale (c. 1748–1811) was a printer and political writer active during the final years of Pax Landeria. From her printing establishment she circulated petitions, accounts of provincial proceedings, and pamphlets criticizing royal taxation. Her correspondence connected committees in the inland towns with sympathizers along the coast.",
+          "Vale was not a military leader, but her publications helped spread the revolutionary cause beyond the communities in which the first protests occurred. After independence she remained active in the public debate over representation and the authority of the new state government."
         ]
       },
       {
-        "heading": "Samuel Ellery — a provisional administrator",
+        "heading": "Samuel Ellery :  a provisional administrator",
         "paragraphs": [
-          "Samuel Ellery (1741–1807) is associated with the early provisional government after the Fall of Lander. A merchant-lawyer by profession, he is remembered for helping maintain courts, supply contracts, and revenue arrangements while the war continued.",
-          "Ellery's reputation is mixed. Later writers have praised the survival of civilian administration during a military emergency, while critics have questioned wartime assessments and the influence that established merchants enjoyed in the new government. Such disagreement is typical of the uncertain years after independence."
+          "Samuel Ellery (1741–1807), a merchant and lawyer, participated in the provisional administration formed after revolutionary forces took Lander. He helped oversee supply contracts, public records, and the continuation of court business at a time when much of the former colonial government had collapsed.",
+          "Ellery was praised for keeping the civil administration functioning during the war, but his reliance on established merchants attracted criticism. Opponents argued that the provisional authorities imposed unequal burdens on smallholders and traders. These disputes followed him into the postwar years."
         ]
       },
       {
-        "heading": "Helena Rook — service during the civil war",
+        "heading": "Helena Rook :  service during the civil war",
         "paragraphs": [
-          "Helena Rook (1824–1896) represents the charitable and medical mobilization associated with Mayflower's participation in the Columbian Civil War. Local accounts describe her organizing relief supplies and nursing assistance for soldiers and displaced families, work that expanded responsibilities far beyond formal military service.",
-          "Her public memory reflects the wider participation of civilians in wartime service. Historical accounts of the war are incomplete when they focus exclusively on regiments and commanders and neglect the networks supporting wounded people and bereaved households."
+          "Helena Rook (1824–1896) became known for organizing relief supplies and nursing assistance during the Columbian Civil War. Working with charitable associations, she helped coordinate the collection and distribution of clothing, medical goods, and food for wounded soldiers and families displaced by the fighting.",
+          "Rook continued to support veterans and their dependents after the war. Her work formed part of a broader effort by voluntary associations to care for those whose needs exceeded the resources of military and civilian authorities."
         ]
       },
       {
-        "heading": "Eleanor Whitt — the industrial reform movement",
+        "heading": "Eleanor Whitt :  the industrial reform movement",
         "paragraphs": [
           "Eleanor Whitt (1867–1938) became associated with labor advocacy and urban social reform during the late industrial era. Her writings and public work drew attention to factory safety, overcrowded housing, and the gap between commercial wealth and conditions in working-class neighborhoods.",
           "Supporters regarded such reformers as essential to the modernization of public administration. Opponents feared that new restrictions would burden industry or expand state authority. The disagreement shaped Mayflower politics long after individual campaigns ended."
         ]
       },
       {
-        "heading": "Clara Merrin — education and civic equality",
+        "heading": "Clara Merrin :  education and civic equality",
         "paragraphs": [
           "Clara Merrin (1912–1985) is remembered as an educator and civil-rights advocate whose campaigns emphasized school access, fair public services, and equal treatment in civic life. Her work is situated within the wider postwar movements that challenged discrimination and unequal opportunities.",
           "By 1991, reformers of Merrin’s generation are commemorated by schools and community organizations, but the issues they raised remain subjects of political and judicial debate. Historical recognition should not be confused with the complete achievement of their goals."
         ]
       },
       {
-        "heading": "How these biographies are used",
+        "heading": "The historical record",
         "paragraphs": [
-          "These biographical sketches establish a starting set of names for Mayflower’s proposed historical canon. They are not a complete register of governors, judges, military commanders, or other officeholders. The influence of major figures must also be understood alongside the labor of ordinary residents whose names rarely appear in formal chronicles."
+          "Although public monuments tend to commemorate governors, commanders, and political leaders, Mayflower's history was also shaped by printers, workers, teachers, merchants, religious figures, and organizers of relief. Their influence often survives through institutions and local traditions rather than through formal titles.",
+          "Historical biographical records are uneven. Early colonial accounts emphasize landowners and traders; wartime accounts favor officers; industrial records frequently omit the experiences of ordinary workers. Modern historical scholarship has sought to recover a wider picture of the people who contributed to the state's development."
         ]
       }
     ]
@@ -105,7 +106,7 @@ export const appendix = [
     "title": "Storms, Fires, Disease, and Public Response",
     "period": "Public history",
     "group": "reference",
-    "summary": "How emergencies tested Mayflower’s infrastructure and reshaped expectations of state, county, and municipal government.",
+    "summary": "Floods, epidemics, coastal storms, and industrial accidents that influenced public institutions and daily life.",
     "sections": [
       {
         "heading": "Recurring hazards",
@@ -117,8 +118,8 @@ export const appendix = [
       {
         "heading": "The 1912 river floods",
         "paragraphs": [
-          "In the proposed historical chronology, exceptional rainfall and spring runoff in 1912 caused destructive flooding along the river corridors leading toward Lander. Warehouses, low-lying streets, and transport facilities sustained damage, while more isolated settlements suffered interruptions to roads and communications.",
-          "The disaster encouraged closer attention to flood-control works, bridges, drainage, and the need for cooperation between adjacent jurisdictions. It also helped demonstrate that river management could not be handled effectively by individual municipalities acting without coordination."
+          "Heavy rainfall and spring runoff caused extensive flooding along the river corridors leading toward Lander in 1912. Warehouses, low-lying streets, bridges, and freight facilities sustained damage, and smaller settlements experienced prolonged interruptions to road and river traffic.",
+          "The floods prompted renewed investment in drainage, bridge construction, and river management. They also demonstrated the difficulty of coordinating water-control measures across adjoining communities whose commercial activity depended upon the same waterways."
         ]
       },
       {
@@ -145,8 +146,8 @@ export const appendix = [
       {
         "heading": "The lesson by 1991",
         "paragraphs": [
-          "By 1991, Mayflower maintains a more elaborate system of emergency services than existed a century earlier, but difficult questions remain about funding, regional cooperation, preparedness, and rural access. A complete history of disasters records both the event itself and the institutional decisions made afterward.",
-          "These historical emergencies are part of the setting’s past. They do not imply or predetermine any future in-universe incident."
+          "Since the beginning of the twentieth century, Mayflower has expanded its emergency services and invested in flood-control projects, public-health facilities, and fire protection. The experience of earlier disasters has influenced building requirements and the organization of assistance between neighboring jurisdictions.",
+          "In 1991, coastal storms, industrial hazards, and the isolation of some inland communities continue to place different demands on the state's counties. Funding, equipment, and regional cooperation remain subjects of public discussion."
         ]
       }
     ]
@@ -196,8 +197,8 @@ export const appendix = [
       {
         "heading": "Communications in 1991",
         "paragraphs": [
-          "Telephone networks, radio, newspapers, postal service, and television provide the principal means of communication. Businesses use fax machines, computer terminals, and electronic records, while public agencies increasingly adopt digital systems for specialized functions.",
-          "The age of routine public websites, smartphones, and instant online service has not yet arrived. Official notices, court records, legislation, and historical publications in 1991 are principally distributed as paper or through traditional broadcast and library channels."
+          "By 1991, Mayflower is served by telephone networks, radio and television broadcasters, postal services, and a wide circulation of local and regional newspapers. Businesses increasingly use fax machines and computerized accounting systems, while larger institutions maintain electronic records alongside conventional paper files.",
+          "Government offices publish notices through newspapers, public postings, and printed records. Residents generally obtain information through direct contact with clerks and agencies, correspondence, or visits to local libraries and public offices."
         ]
       }
     ]
