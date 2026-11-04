@@ -99,7 +99,7 @@ export const twentieth = [
     "title": "Suburbia, Civil Rights, and the Changing State",
     "period": "1945–1969",
     "group": "modern",
-    "summary": "Postwar housing, highways, growing educational institutions, and struggles over equality and urban development.",
+    "summary": "New housing, highways, schools, and civil-rights campaigns in the years after 1945.",
     "sections": [
       {
         "heading": "A return to civilian life",
@@ -211,7 +211,7 @@ export const twentieth = [
         ]
       },
       {
-        "heading": "Government and public administration",
+        "heading": "State government in 1991",
         "paragraphs": [
           "The Constitution of Mayflower establishes a government divided among the executive, legislative, and judicial branches. Executive authority is vested in the Governor, legislative authority in the State Senate, and judicial authority in the courts of the state. The seat of government is Lander, where the Governor's offices, the Senate, and other state departments are located.",
           "New Haven, Clark, Lee, and Elizabeth Counties form the principal divisions of local administration. Their governments conduct county business from Plymouth, Mersea, Winchester, and Little Horsted, respectively. Incorporated towns and cities exercise municipal responsibilities within their jurisdictions. The relationship between the state, counties, and municipalities has long been a subject of debate, especially over taxation, roads, education, and public services.",
@@ -235,7 +235,7 @@ export const twentieth = [
         ]
       },
       {
-        "heading": "Everyday communications and culture",
+        "heading": "Daily life and communications",
         "paragraphs": [
           "Life in Mayflower in 1991 varies considerably between the metropolitan region and smaller towns. In Lander and its suburbs, commuting by automobile, shopping centers, and office employment are familiar features of daily life. In the coastal and upland counties, fishing, agriculture, tourism, forestry, and established town businesses remain closely tied to local identity.",
           "Residents follow state affairs through newspapers, radio, and television. Schools, veterans' halls, churches, civic clubs, and sports grounds bring neighbors together. Independence Day celebrations and commemorations of the Revolution and the Columbian Civil War retain an important place in public ceremony.",
