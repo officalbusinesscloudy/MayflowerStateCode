@@ -17,14 +17,14 @@ export const reference = [
         "heading": "A confederation of states",
         "paragraphs": [
           "By 1991, the Union consists of twenty-eight constituent states, including Mayflower. Its governing principles assign considerable sovereignty and responsibility to each state. The federal government is intended to uphold the shared constitutional order, coordinate common interests, and sustain the security and legitimacy of the confederation.",
-          "The arrangement does not eliminate federal power. The Union maintains national institutions that operate throughout its territory, but their authority is defined by a constitutional relationship with the states. Arguments over the scope of those powers have influenced Columbian political life since independence."
+          "The arrangement does not eliminate federal power. The federal government maintains its own executive offices, Senate, courts, and armed forces, exercising the powers granted to it by the Union's constitution. Arguments over the scope of those powers have influenced Columbian political life since independence."
         ]
       },
       {
-        "heading": "Federal institutions",
+        "heading": "The federal government",
         "paragraphs": [
           "The Union operates as a presidential constitutional federal confederation and representative democracy. Its government is divided among the executive, legislative, and judicial branches. The legislature is unicameral: the Senate of the Union of Columbia contains fifty-six seats, with each state allotted two senators.",
-          "The equal allocation of Senate seats reflects the confederal principle that constituent states retain a political identity within the national government. It also produces disagreements over the relationship between state equality and differences in population or economic contribution."
+          "Each state elects two senators regardless of population. This arrangement gives smaller states the same number of votes as larger ones, a point of frequent dispute in national politics."
         ]
       },
       {
@@ -38,7 +38,7 @@ export const reference = [
         "heading": "Mayflower's place within the Union",
         "paragraphs": [
           "Mayflower's membership in the Union has been central to its political and economic development since 1776. The state supplied soldiers and materials during the War of Independence and the Columbian Civil War, and its ports and railways subsequently helped connect the northeastern coast to the broader continental economy.",
-          "Public loyalty to the Union has long existed alongside a strong attachment to Mayflower's own institutions. Questions of taxation, military service, commerce, and the authority of federal officials have produced recurring disagreements without erasing the state's identification with the Columbian nation."
+          "Public loyalty to the Union has long existed alongside a strong attachment to Mayflower's own government. Questions of taxation, military service, commerce, and the authority of federal officials have produced recurring disagreements without erasing the state's identification with the Columbian nation."
         ]
       }
     ]
@@ -53,35 +53,35 @@ export const reference = [
       {
         "heading": "Constitutional tradition",
         "paragraphs": [
-          "The government of Mayflower traces its authority to the revolutionary period, when colonial institutions were replaced by a provisional state administration following independence. During the years after the War of Independence, constitutional conventions and legislative debates established permanent institutions for the new state. The resulting constitutional order recognized separate executive, legislative, and judicial authorities.",
+          "The government of Mayflower traces its authority to the revolutionary period, when the colonial government was replaced by a provisional administration after independence. During the years after the War of Independence, constitutional conventions and legislative debates settled the powers of the Governor, legislature, and courts. The resulting constitutional order recognized separate executive, legislative, and judicial authorities.",
           "Mayflower's Constitution has changed as the state has grown. The expansion of its cities, the development of county government, and conflicts over taxation and public authority have each contributed to amendments and legislation defining the duties of public officers. Constitutional disputes have repeatedly centered on how political power should be divided between the state, its local governments, and the Union of Columbia."
         ]
       },
       {
         "heading": "The executive",
         "paragraphs": [
-          "The Governor is the chief executive of Mayflower and directs the administration of the state government. The office developed from the executive arrangements established during the Revolution and became a central institution as state administration expanded during the nineteenth century. The Lieutenant Governor is a separate constitutional officer whose duties are established by state law.",
-          "Over time, the executive branch assumed responsibility for increasingly complex public affairs, including finance, roads, public institutions, and the administration of state agencies. The growth of executive administration was not without controversy. Legislators and county officials have periodically resisted the concentration of authority in Lander, particularly where state policy affects local taxation or services."
+          "The Governor is the chief executive of Mayflower and directs the administration of the state government. The office developed from the executive arrangements established during the Revolution and assumed more duties as the state government grew during the nineteenth century. The Lieutenant Governor is a separate constitutional officer whose duties are established by state law.",
+          "Over time, the executive branch assumed responsibility for increasingly complex public affairs, including finance, roads, state property, and the operation of government departments. The growth of executive administration was not without controversy. Legislators and county officials have periodically resisted the concentration of authority in Lander, particularly where state policy affects local taxation or services."
         ]
       },
       {
         "heading": "The legislature and judiciary",
         "paragraphs": [
-          "Legislative authority in Mayflower is vested in the State Senate. The Senate considers legislation, appropriations, taxation, and the operation of state government. Its proceedings have reflected the different interests of the four counties, particularly the long-standing division between the metropolitan districts surrounding Lander and the state's smaller towns and rural communities.",
-          "Judicial authority is exercised by the courts of Mayflower, headed by the Supreme Court and supported by lower courts established under state law. The courts have played an important role in disputes involving property, criminal prosecutions, elections, government authority, and constitutional rights. Their decisions have influenced the development of state institutions as well as the relationship between Mayflower and its counties."
+          "Legislative authority in Mayflower is vested in the State Senate. The Senate considers legislation, appropriations, taxation, and the operation of state government. Senators from the Lander area have often disagreed with those representing smaller towns and rural districts over taxes, roads, and public spending.",
+          "Judicial authority is exercised by the courts of Mayflower, headed by the Supreme Court and supported by lower courts established under state law. The courts hear disputes over property, criminal charges, elections, government powers, and constitutional rights. Their rulings have determined the limits of state authority and the powers reserved to counties and municipalities."
         ]
       },
       {
         "heading": "Counties and municipalities",
         "paragraphs": [
-          "The four counties of Mayflower are New Haven, Clark, Lee, and Elizabeth. County administration developed during the state's early decades to provide courts, public records, and local services outside the capital. Plymouth, Mersea, Winchester, and Little Horsted serve as their respective county seats, each retaining institutions that reflect its regional history.",
+          "The four counties of Mayflower are New Haven, Clark, Lee, and Elizabeth. County administration developed during the state's early decades to provide courts, public records, and local services outside the capital. Plymouth, Mersea, Winchester, and Little Horsted serve as their respective county seats, each maintaining a courthouse, records offices, and other county services.",
           "Urban expansion has complicated the older division of responsibilities. Greater Lander extends across traditional local boundaries, while suburban growth has increased demand for roads, schools, utilities, and emergency services. In the more rural counties, the distance between settlements remains a major concern. These differences have made county autonomy and state assistance recurring issues before the Senate."
         ]
       },
       {
         "heading": "Public records and the machinery of government",
         "paragraphs": [
-          "Mayflower's public institutions grew from the court registers, tax records, and administrative offices inherited from the colonial period. The expansion of state government after independence required a more consistent system of record keeping, while county clerks continued to maintain documents needed for local administration. By the nineteenth century, public notices, legislative journals, court filings, and official correspondence formed a substantial body of government records.",
+          "The state's record-keeping system grew from the court registers, tax rolls, and administrative offices inherited from the colonial period. The expansion of state government after independence required a more consistent system of record keeping, while county clerks continued to maintain documents needed for local administration. By the nineteenth century, public notices, legislative journals, court filings, and official correspondence formed a substantial body of government records.",
           "By 1991, typewriters, photocopiers, filing systems, and telephone exchanges remain common throughout public offices. Computerized records have been introduced in larger departments, particularly for accounts and administrative work, but written correspondence and in-person service remain central to the way residents conduct official business."
         ]
       },
@@ -148,8 +148,8 @@ export const reference = [
       {
         "heading": "The historic coast",
         "paragraphs": [
-          "New Haven County is traditionally associated with Mayflower's earliest permanent European settlements. Its coast offered protected harbors and access to maritime trade. Wallonian communities founded during the seventeenth century left a lasting influence upon older street plans, town institutions, and local historical traditions.",
-          "The county's history began long before European settlement. Indigenous coastal communities developed trade and fisheries in these waters, and their descendants remain part of the region's historical record."
+          "New Haven County is traditionally associated with Mayflower's earliest permanent European settlements. Its coast offered protected harbors and access to maritime trade. Seventeenth-century Wallonian settlements left their mark on the layout of older streets, local churches, and harbor customs.",
+          "The county's history began long before European settlement. Indigenous coastal communities developed trade and fisheries in these waters, and their descendants still live in the region."
         ]
       },
       {
@@ -176,7 +176,7 @@ export const reference = [
       {
         "heading": "New Haven in 1991",
         "paragraphs": [
-          "In 1991, New Haven is a mixture of historic towns, fishing and port communities, residential districts, and growing visitor economies. Plymouth remains the county seat and an important center for the preservation of Mayflower's early colonial history.",
+          "In 1991, New Haven is a mixture of historic towns, fishing and port communities, residential districts, and growing visitor economies. Plymouth remains the county seat, with historic waterfront streets and buildings dating to its colonial past.",
           "Local identity emphasizes the county's age and maritime traditions, but contemporary concerns are concrete: harbor maintenance, seasonal employment, housing costs, transportation, and protection of the shoreline."
         ]
       }
@@ -192,15 +192,15 @@ export const reference = [
       {
         "heading": "From riverside settlements to a capital region",
         "paragraphs": [
-          "Clark County developed around the transport routes that made the greater Lander area strategically important. Early river settlements became commercial centers as merchants moved agricultural produce, timber, and manufactured goods between the interior and the coast.",
+          "Clark County developed around the transport routes that made greater Lander a junction for river, road, and rail traffic. Early river settlements became commercial centers as merchants moved agricultural produce, timber, and manufactured goods between the interior and the coast.",
           "Its designation as a central district of state administration encouraged the growth of offices, legal firms, financial businesses, and service industries. The capital district of Lander is traditionally located within Clark County, although the built-up metropolitan area extends across county lines."
         ]
       },
       {
         "heading": "Mersea and county government",
         "paragraphs": [
-          "Mersea serves as the county seat and has its own administrative identity despite its close relationship with the larger Lander region. County offices, courts, local commercial streets, and transport links make it important to residents beyond the immediate city.",
-          "The distinction between the city that hosts state government and the town that hosts county government reflects the layered evolution of Mayflower's institutions rather than a neatly planned administrative system."
+          "Mersea serves as the county seat and has its own administrative identity despite its close relationship with the larger Lander region. County offices, courts, local commercial streets, and transport links serve residents throughout the county.",
+          "Lander houses the state government, while Mersea handles county business. Their separate roles date to the growth of government in the capital region."
         ]
       },
       {
@@ -220,7 +220,7 @@ export const reference = [
       {
         "heading": "Clark in 1991",
         "paragraphs": [
-          "In 1991, Clark County includes some of Mayflower's most important political and commercial districts. It is home to major public institutions, transport terminals, and business concentrations, but also neighborhoods affected by disinvestment and high service costs.",
+          "In 1991, Clark County includes the state capital's government offices and leading business districts. Its courts, transport terminals, and commercial centers stand alongside but also neighborhoods affected by disinvestment and high service costs.",
           "Its politics reflect the tensions of a capital region: public employment, taxation, urban renewal, transport, government integrity, and the competing needs of affluent commercial areas and older residential communities."
         ]
       }
@@ -236,7 +236,7 @@ export const reference = [
       {
         "heading": "The inland county",
         "paragraphs": [
-          "Lee County developed at the intersection of agricultural land, forested routes, and the transportation corridors leading toward Lander. The county was never solely rural or solely urban. Farming communities remained important even as rail access drew manufacturers, warehouses, and commercial services into growing towns.",
+          "Lee County developed at the intersection of agricultural land, forested routes, and the transportation corridors leading toward Lander. The county was never solely rural or solely urban. Farms continued to supply local markets even as railway access brought factories, warehouses, and shops to the county's towns.",
           "The influence of the nearby capital helped make Lee a place of movement. Goods passed through the county, workers traveled between settlements and metropolitan workplaces, and families relocated from the city to more spacious neighborhoods."
         ]
       },
@@ -251,7 +251,7 @@ export const reference = [
         "heading": "Madison, Woodbury, and smaller communities",
         "paragraphs": [
           "Madison and Woodbury are among the better-known communities associated with Lee County. Their development reflects combinations of rail and road access, small industry, local retail, and residential growth. Smaller crossroads settlements and rural neighborhoods preserve the county's agricultural and woodland character.",
-          "Local histories vary considerably. A town built around a mill faces different problems from a newer commuter neighborhood or a farming township. The county's common identity therefore rests more in its institutions and transport connections than in any single way of life."
+          "Local histories vary considerably. A town built around a mill faces different problems from a newer commuter neighborhood or a farming township. The county's towns are tied together by roads, rail lines, commercial trade, and the public offices in Winchester."
         ]
       },
       {
@@ -280,15 +280,15 @@ export const reference = [
       {
         "heading": "The upland county",
         "paragraphs": [
-          "Elizabeth County encompasses much of Mayflower's rugged interior landscape. Forests, valleys, streams, and steep uplands have shaped its settlement patterns. Communities formed along cultivable valleys, river crossings, and routes through the highlands, often at considerable distance from the state's largest markets.",
+          "Elizabeth County encompasses much of Mayflower's rugged interior landscape. Forests, valleys, streams, and steep uplands determined where roads, farms, and villages could be built. Communities formed along cultivable valleys, river crossings, and routes through the highlands, often at considerable distance from the state's largest markets.",
           "Indigenous histories of the interior precede the county itself. Later settlement placed new pressure on land and natural resources, with disputes about access continuing through successive eras of economic change."
         ]
       },
       {
         "heading": "Little Horsted and the county seat",
         "paragraphs": [
-          "Little Horsted is the county seat and administrative center for a region whose communities are comparatively dispersed. County government has historically been important in maintaining roads, recording property, administering courts, and connecting smaller settlements to the state.",
-          "Because travel across the uplands can be difficult, public offices and services are not always equally accessible. The county seat serves as an institutional center but cannot remove the practical distances between local communities."
+          "Little Horsted is the county seat and administrative center for a region whose communities are comparatively dispersed. The county government maintains roads, records property transactions, and provides courts and other services for the surrounding settlements.",
+          "Because travel across the uplands can be difficult, public offices and services are not always equally accessible. Residents of outlying towns may still have to travel a considerable distance to reach the courthouse or other county offices."
         ]
       },
       {
@@ -332,7 +332,7 @@ export const reference = [
         "heading": "Language, faith, and migration",
         "paragraphs": [
           "Columbian English is the dominant language of government and ordinary commerce in 1991. Historical Wallonian place names and family traditions survive in portions of the older coastal region. Immigration has introduced additional languages and religious practices, especially in urban districts and major transport centers.",
-          "Religious institutions have often provided education, charity, cultural continuity, and political organization. The state includes both strongly observant communities and many residents for whom faith is a private or limited part of daily life."
+          "Churches and other places of worship have supported schools, charities, community events, and political campaigns. The state includes both strongly observant communities and many residents for whom faith is a private or limited part of daily life."
         ]
       },
       {
@@ -345,8 +345,8 @@ export const reference = [
       {
         "heading": "Education and civic associations",
         "paragraphs": [
-          "Public schools, libraries, local colleges, trade schools, and civic clubs form an important part of community life. Volunteer organizations, veterans' associations, unions, chambers of commerce, neighborhood groups, and charitable societies contribute to political and social activity.",
-          "Questions about the equality of school resources, the cost of college, and access to technical training have become more prominent as the economy changes. Local associations remain especially important in smaller towns where public services are limited."
+          "Schools, libraries, colleges, trade schools, and civic clubs provide places for education, meetings, and recreation. Volunteer organizations, veterans' associations, unions, chambers of commerce, neighborhood groups, and charitable societies contribute to political and social activity.",
+          "Questions about the equality of school resources, the cost of college, and access to technical training have become more prominent as the economy changes. Local clubs and volunteer groups often organize activities and help residents in smaller towns with fewer public services."
         ]
       },
       {
@@ -360,7 +360,7 @@ export const reference = [
         "heading": "Public memory and the future",
         "paragraphs": [
           "Historical landmarks, Independence Day ceremonies, Guard commemorations, and preservation societies sustain an interest in Mayflower's past. The growth of the modern metropolis has also sparked efforts to protect industrial buildings, historic neighborhoods, and older coastal landscapes.",
-          "As of 1991, civic identity is still evolving. Mayflower's residents inherit a long historical tradition, but they are also engaged in arguments over the future of work, public institutions, local independence, and the meaning of prosperity."
+          "In 1991, residents debate factory closures, school funding, county authority, and the cost of public services. The state's long history offers no single answer to those questions."
         ]
       }
     ]
