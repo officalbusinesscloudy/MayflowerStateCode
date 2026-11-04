@@ -75,7 +75,7 @@ export const foundations = [
         "heading": "A society of competing loyalties",
         "paragraphs": [
           "Wallonian coastal communities were never politically uniform. Established merchants sought predictable legal rules and access to foreign markets; smallholders defended local practices; churches and civic associations provided social cohesion but could also become sources of disagreement. Indigenous residents negotiated, resisted, and adapted to the growth of settler communities.",
-          "By 1700, the region was a patchwork of settlements, commercial interests, and locally exercised authority. Its future was not settled. The next century would bring an expanding Pax Britannian presence and increasingly bitter contests over who could govern the territory."
+          "By 1700, the region was a patchwork of settlements, commercial interests, and locally exercised authority. During the following century, Pax Britannian merchants and officials gained ground in the region, provoking disputes over trade, taxation, and colonial authority."
         ]
       }
     ]
