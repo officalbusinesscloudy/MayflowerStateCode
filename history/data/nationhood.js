@@ -31,7 +31,7 @@ export const nationhood = [
         "heading": "Lander and the state capital",
         "paragraphs": [
           "Lander’s river position and administrative buildings made it the leading candidate for the capital. Lander already had administrative buildings and river connections to the surrounding towns. Government offices encouraged the growth of lodging houses, printers, legal practices, banks, and commercial services.",
-          "As the city expanded over the following century, its urban development increasingly crossed historical local boundaries. Lander's metropolitan area eventually extended across parts of Clark and Lee Counties, although the capital district remained in Clark County."
+          "During the following century, Lander spread beyond its old municipal limits. Its metropolitan area extended into Clark and Lee Counties, while the capital district remained in Clark County."
         ]
       },
       {
@@ -148,7 +148,7 @@ export const nationhood = [
       {
         "heading": "A new metropolitan landscape",
         "paragraphs": [
-          "The decades after the civil war brought the expansion of railway yards, warehouses, foundries, banks, and shipping facilities. Lander became the center of a metropolitan economy whose workers increasingly lived beyond older municipal boundaries. Industrial neighborhoods extended toward Lee County, while Clark County acquired an expanding concentration of financial houses and public buildings.",
+          "The decades after the civil war brought the expansion of railway yards, warehouses, foundries, banks, and shipping facilities. Factories and rail yards drew workers to settlements beyond Lander's old municipal boundaries. Industrial neighborhoods extended toward Lee County, while Clark County acquired an expanding concentration of financial houses and public buildings.",
           "Electric street lighting, streetcars, telephone exchanges, and improved water systems were introduced unevenly. Wealthy business districts often benefited first. In working-class areas, overcrowding and inadequate sanitation created serious public health problems."
         ]
       },
