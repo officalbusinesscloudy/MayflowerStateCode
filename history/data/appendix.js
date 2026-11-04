@@ -48,7 +48,7 @@ export const appendix = [
     "title": "Figures in Mayflower History",
     "period": "Historical biographies",
     "group": "reference",
-    "summary": "Biographies of people associated with Mayflower's settlement, independence, public institutions, labor movement, and civic reform.",
+    "summary": "People remembered for early settlement, the Revolution, military service, labor reform, and education.",
     "sections": [
       {
         "heading": "Paul Lander: the river merchant",
@@ -86,7 +86,7 @@ export const appendix = [
         ]
       },
       {
-        "heading": "Clara Merrin: education and civic equality",
+        "heading": "Clara Merrin: education and civil rights",
         "paragraphs": [
           "Clara Merrin (1912–1985) was an educator and civil-rights advocate whose work focused on school access, fair treatment in public services, and the rights of disadvantaged communities. She participated in a generation of reformers who challenged long-established inequalities through public campaigning and civic organizations.",
           "By 1991, schools and community centers commemorated Merrin's work. Her work also remained relevant to continuing disputes over school funding, discrimination, and equal access to public services."
@@ -106,7 +106,7 @@ export const appendix = [
     "title": "Storms, Fires, Disease, and Public Response",
     "period": "Public history",
     "group": "reference",
-    "summary": "Floods, epidemics, coastal storms, and industrial accidents that influenced public institutions and daily life.",
+    "summary": "Floods, epidemics, coastal storms, industrial fires, and the rebuilding that followed.",
     "sections": [
       {
         "heading": "Recurring hazards",
