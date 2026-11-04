@@ -16,7 +16,7 @@ export const appendix = [
       {
         "heading": "A revolutionary city",
         "paragraphs": [
-          "By the 1770s, Lander was sufficiently important that Pax Britannian authorities maintained administrative and military facilities there. Its capture by revolutionary forces in January 1776 denied the Crown a key inland base and gave the independence movement access to supplies and records.",
+          "By the 1770s, Pax Britannian officials maintained government offices and a garrison in Lander. Its capture by revolutionary forces in January 1776 denied the Crown a key inland base and gave the independence movement access to supplies and records.",
           "The battle acquired an enduring ceremonial place in the city’s history. Annual remembrance often emphasizes military victory, though the aftermath also involved contested property, disrupted commerce, and divided loyalties among residents."
         ]
       },
@@ -82,20 +82,20 @@ export const appendix = [
         "heading": "Eleanor Whitt: the industrial reform movement",
         "paragraphs": [
           "Eleanor Whitt (1867–1938) became associated with labor advocacy and urban social reform during the late industrial era. Her writings and public work drew attention to factory safety, overcrowded housing, and the gap between commercial wealth and conditions in working-class neighborhoods.",
-          "Supporters regarded such reformers as essential to the modernization of public administration. Opponents feared that new restrictions would burden industry or expand state authority. The disagreement shaped Mayflower politics long after individual campaigns ended."
+          "Supporters of Whitt pressed for safer factories, cleaner municipal contracts, and fair treatment of workers. Employers and their allies argued that additional rules would raise costs and put jobs at risk. These arguments continued after Whitt's own campaigns ended."
         ]
       },
       {
         "heading": "Clara Merrin: education and civic equality",
         "paragraphs": [
           "Clara Merrin (1912–1985) was an educator and civil-rights advocate whose work focused on school access, fair treatment in public services, and the rights of disadvantaged communities. She participated in a generation of reformers who challenged long-established inequalities through public campaigning and civic organizations.",
-          "By 1991, Merrin's efforts were commemorated by educational and community institutions. Her work also remained relevant to continuing disputes over school funding, discrimination, and equal access to public services."
+          "By 1991, schools and community centers commemorated Merrin's work. Her work also remained relevant to continuing disputes over school funding, discrimination, and equal access to public services."
         ]
       },
       {
         "heading": "The historical record",
         "paragraphs": [
-          "Although public monuments tend to commemorate governors, commanders, and political leaders, Mayflower's history was also shaped by printers, workers, teachers, merchants, religious figures, and organizers of relief. Their influence often survives through institutions and local traditions rather than through formal titles.",
+          "Although public monuments tend to commemorate governors, commanders, and political leaders, printers, workers, teachers, merchants, clergy, and volunteers also left their mark on Mayflower. Their work can be traced through local newspapers, schools, businesses, and community records.",
           "Historical biographical records are uneven. Early colonial accounts emphasize landowners and traders; wartime accounts favor officers; industrial records frequently omit the experiences of ordinary workers. Modern historical scholarship has sought to recover a wider picture of the people who contributed to the state's development."
         ]
       }
@@ -111,7 +111,7 @@ export const appendix = [
       {
         "heading": "Recurring hazards",
         "paragraphs": [
-          "Mayflower's geography exposes it to coastal storms, high water, winter weather, and hazards associated with mining and heavy industry. The state’s history of emergencies is therefore not limited to a handful of spectacular events. Small floods, industrial injuries, transport accidents, and severe storms have repeatedly shaped public spending and local institutions.",
+          "Mayflower's geography exposes it to coastal storms, high water, winter weather, and hazards associated with mining and heavy industry. The state’s history of emergencies is therefore not limited to a handful of spectacular events. Floods, industrial accidents, and severe storms forced towns to repair roads, rebuild docks, improve hospitals, and reconsider emergency preparations.",
           "Emergency responses have often revealed uneven resources. A dense urban district may possess hospitals and equipment unavailable to a remote highland town, while a coastal community must prepare for conditions that rarely affect inland neighborhoods."
         ]
       },
@@ -170,7 +170,7 @@ export const appendix = [
         "heading": "Turnpikes, bridges, and canals",
         "paragraphs": [
           "The early state invested in roads and river crossings to connect county seats and agricultural districts with markets and courts. Improvements were gradual and frequently controversial because landowners, private companies, towns, and the state disputed how projects should be financed.",
-          "Bridges became particularly important in flood-prone valleys, while difficult highland routes limited travel in Elizabeth County. Public investment could reshape the prosperity of a town simply by changing which route carried regional traffic."
+          "Bridges shortened journeys through flood-prone valleys, while difficult mountain roads continued to limit travel in Elizabeth County. New roads and rail lines could bring trade to one town while diverting it away from another."
         ]
       },
       {
@@ -183,21 +183,21 @@ export const appendix = [
       {
         "heading": "Ports and industry",
         "paragraphs": [
-          "Lander and the older coastal harbors developed facilities for increasingly complex cargo and industrial supply chains. Modern docks, warehouses, and rail transfers supported manufacturing and commercial shipping. The economy's reliance on freight transport shaped decisions about bridges, waterfront access, and pollution control.",
-          "Industrial decline in the late twentieth century left portions of this infrastructure underused or in need of expensive rehabilitation. The question of whether to preserve, modernize, or repurpose historic facilities remains important in 1991."
+          "Lander and the older coastal harbors developed facilities for increasingly complex cargo and industrial supply chains. Modern docks, warehouses, and rail transfers supported manufacturing and commercial shipping. The demands of freight transport influenced bridge construction, access to the waterfront, and efforts to control pollution.",
+          "Industrial decline in the late twentieth century left portions of this infrastructure underused or in need of expensive rehabilitation. In 1991, local authorities and property owners are still debating whether to repair, replace, or redevelop these sites."
         ]
       },
       {
         "heading": "The age of the automobile",
         "paragraphs": [
-          "After 1945, highway investment and widespread car ownership encouraged suburban growth. Commuters could live farther from workplaces, and retail development expanded along major roads. Lee County experienced significant effects as formerly rural districts became increasingly integrated into greater Lander.",
-          "The benefits of motor travel came with congestion, road maintenance costs, and reduced access for residents without cars. Transit and highway financing remain important topics in county and state government."
+          "After 1945, highway investment and widespread car ownership encouraged suburban growth. Commuters could live farther from workplaces, and retail development expanded along major roads. Many formerly rural parts of Lee County became commuter communities as greater Lander spread outward.",
+          "The benefits of motor travel came with congestion, road maintenance costs, and reduced access for residents without cars. County and state officials continue to argue over the cost of public transit and highway construction."
         ]
       },
       {
         "heading": "Communications in 1991",
         "paragraphs": [
-          "By 1991, Mayflower is served by telephone networks, radio and television broadcasters, postal services, and a wide circulation of local and regional newspapers. Businesses increasingly use fax machines and computerized accounting systems, while larger institutions maintain electronic records alongside conventional paper files.",
+          "By 1991, Mayflower is served by telephone networks, radio and television broadcasters, postal services, and a wide circulation of local and regional newspapers. Businesses increasingly use fax machines and computerized accounting systems, while larger companies and government departments keep electronic records alongside paper files.",
           "Government offices publish notices through newspapers, public postings, and printed records. Residents generally obtain information through direct contact with clerks and agencies, correspondence, or visits to local libraries and public offices."
         ]
       }
