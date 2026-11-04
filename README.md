@@ -51,3 +51,11 @@ This editorial restructuring does not itself enact, repeal, or amend law. All ex
 Run `node scripts/check-code.mjs` after any change to `data/code.json`. The script checks section identity and parent relationships, current M.S.C. citations, obsolete title/subtitle/chapter references, grouped source-text consistency, and short-title or legacy-penalty artifacts. It fails with a nonzero exit code if a structural error is found.
 
 The full November 3, 2026 audit and remaining substantive legal-review items are documented in [CODE_AUDIT.md](CODE_AUDIT.md). A passing structural audit does not constitute enactment, approval, or legal validation of proposed provisions.
+
+## Historical Archive (1991 setting)
+
+The site also publishes a separate history reader at [history/](history/). Its in-universe present is **1991**; events after 1991 are not treated as completed history. The archive is distinct from the State Code and Executive Orders and does not have legal effect.
+
+The history reader is a zero-build static module app. Its entrypoint is `history/index.html`; `history/app.js` handles article links (`?article=slug`), full-text search (`?q=term`), chronology (`?view=timeline`), copy-link and print controls. Articles are stored in arrays exported from `history/data/*.js`; each item has an `id`, `title`, `period`, `group`, `summary`, and `sections`, with headings and paragraphs. Add new articles to a module imported by `history/app.js` and keep article IDs unique.
+
+The published narrative combines user-established Union of Columbia and Mayflower foundations with newly written alternate-history details. Names, dates and events added in the archive are editorial canon developed for this edition rather than documentary claims about real-world history. Revisions should preserve historical consistency and be reviewed before publication. The reader uses the existing site's branding and works on the same GitHub Pages deployment without build tooling.
