@@ -37,8 +37,8 @@ export const reference = [
       {
         "heading": "Mayflower's place within the Union",
         "paragraphs": [
-          "Mayflower's history is bound to the Union through its participation in independence, the civil war, federal commerce, and subsequent national mobilizations. Its ports, industrial firms, and transport networks connect it to the wider continental economy.",
-          "Mayflower citizens may identify strongly with the Union while disagreeing with national policy or defending state autonomy. That dual identity—Columbian and Mayflower—is a continuing feature of political life as of 1991."
+          "Mayflower's membership in the Union has been central to its political and economic development since 1776. The state supplied soldiers and materials during the War of Independence and the Columbian Civil War, and its ports and railways subsequently helped connect the northeastern coast to the broader continental economy.",
+          "Public loyalty to the Union has long existed alongside a strong attachment to Mayflower's own institutions. Questions of taxation, military service, commerce, and the authority of federal officials have produced recurring disagreements without erasing the state's identification with the Columbian nation."
         ]
       }
     ]
@@ -48,48 +48,48 @@ export const reference = [
     "title": "Government and Constitutional Development",
     "period": "Civic institutions · 1991",
     "group": "reference",
-    "summary": "How a former colony developed its constitutional branches, county governments, public administration, and enduring disputes over authority.",
+    "summary": "The constitutional and political history of Mayflower, from the provisional revolutionary government to the institutions of 1991.",
     "sections": [
       {
         "heading": "Constitutional tradition",
         "paragraphs": [
-          "Mayflower's political order derives from the revolutionary period and the subsequent creation of a permanent state constitution. The constitution defines the state's institutions, protects the structure of representative government, and frames its obligations within the Union of Columbia. Its present institutions are the product of amendments, judicial interpretation, and administrative reform rather than an unchanged eighteenth-century design.",
-          "The legitimacy of government is traditionally described as resting on the people of Mayflower. Political disagreements frequently concern not only what public authorities should do but also which authority has the power to do it."
+          "The government of Mayflower traces its authority to the revolutionary period, when colonial institutions were replaced by a provisional state administration following independence. During the years after the War of Independence, constitutional conventions and legislative debates established permanent institutions for the new state. The resulting constitutional order recognized separate executive, legislative, and judicial authorities.",
+          "Mayflower's Constitution has changed as the state has grown. The expansion of its cities, the development of county government, and conflicts over taxation and public authority have each contributed to amendments and legislation defining the duties of public officers. Constitutional disputes have repeatedly centered on how political power should be divided between the state, its local governments, and the Union of Columbia."
         ]
       },
       {
         "heading": "The executive",
         "paragraphs": [
-          "The Governor serves as the head of the executive branch and the most prominent public official of the state. Executive departments administer public responsibilities that state law places within their jurisdiction. The Lieutenant Governor provides an additional constitutional office whose duties are determined by the governing constitutional and legal arrangements.",
-          "The specific powers of each office are a matter of the constitution and enacted law, not of this historical narrative. The state's executive branch has expanded and contracted over time as new public needs have arisen and older offices have been reorganized."
+          "The Governor is the chief executive of Mayflower and directs the administration of the state government. The office developed from the executive arrangements established during the Revolution and became a central institution as state administration expanded during the nineteenth century. The Lieutenant Governor is a separate constitutional officer whose duties are established by state law.",
+          "Over time, the executive branch assumed responsibility for increasingly complex public affairs, including finance, roads, public institutions, and the administration of state agencies. The growth of executive administration was not without controversy. Legislators and county officials have periodically resisted the concentration of authority in Lander, particularly where state policy affects local taxation or services."
         ]
       },
       {
         "heading": "The legislature and judiciary",
         "paragraphs": [
-          "Mayflower's state legislature is the Senate. It carries forward the representative tradition developed after independence and is central to debates over appropriations, taxation, public services, and the structure of government. Senate politics reflect the varying concerns of urban, suburban, coastal, and rural communities.",
-          "The judiciary includes the state's highest court and lower courts established within the constitutional framework. Over generations, courts have addressed disputes involving property, criminal law, government authority, elections, and the relationship between state and local institutions. Courts also provide an institutional setting for disputes over the meaning of constitutional protections."
+          "Legislative authority in Mayflower is vested in the State Senate. The Senate considers legislation, appropriations, taxation, and the operation of state government. Its proceedings have reflected the different interests of the four counties, particularly the long-standing division between the metropolitan districts surrounding Lander and the state's smaller towns and rural communities.",
+          "Judicial authority is exercised by the courts of Mayflower, headed by the Supreme Court and supported by lower courts established under state law. The courts have played an important role in disputes involving property, criminal prosecutions, elections, government authority, and constitutional rights. Their decisions have influenced the development of state institutions as well as the relationship between Mayflower and its counties."
         ]
       },
       {
         "heading": "Counties and municipalities",
         "paragraphs": [
-          "New Haven, Clark, Lee, and Elizabeth Counties provide important administrative frameworks for local government. County offices developed to bring public responsibilities closer to communities geographically distant from the capital. Incorporated towns and cities maintain their own institutions where authorized.",
-          "County governments have different practical demands. Metropolitan counties confront large caseloads, major road networks, and dense settlement; rural regions face long travel distances, small tax bases, and uneven access to facilities. These differences help explain recurrent arguments over the division of financial responsibility."
+          "The four counties of Mayflower are New Haven, Clark, Lee, and Elizabeth. County administration developed during the state's early decades to provide courts, public records, and local services outside the capital. Plymouth, Mersea, Winchester, and Little Horsted serve as their respective county seats, each retaining institutions that reflect its regional history.",
+          "Urban expansion has complicated the older division of responsibilities. Greater Lander extends across traditional local boundaries, while suburban growth has increased demand for roads, schools, utilities, and emergency services. In the more rural counties, the distance between settlements remains a major concern. These differences have made county autonomy and state assistance recurring issues before the Senate."
         ]
       },
       {
         "heading": "Public records and the machinery of government",
         "paragraphs": [
-          "In 1991, government business is conducted through written laws, paper files, correspondence, public notices, hearings, and records maintained by clerks. Typewriters, photocopiers, fax machines, computers, and telephone systems coexist in offices of differing size and budget. Citizens generally obtain official information through public counters, postal correspondence, libraries, newspapers, or direct contact with an agency.",
-          "The Mayflower State Code and the executive-order register record legal materials. This history archive has a separate function: it explains the development of institutions but does not itself grant authority, amend law, or settle a legal question."
+          "Mayflower's public institutions grew from the court registers, tax records, and administrative offices inherited from the colonial period. The expansion of state government after independence required a more consistent system of record keeping, while county clerks continued to maintain documents needed for local administration. By the nineteenth century, public notices, legislative journals, court filings, and official correspondence formed a substantial body of government records.",
+          "By 1991, typewriters, photocopiers, filing systems, and telephone exchanges remain common throughout public offices. Computerized records have been introduced in larger departments, particularly for accounts and administrative work, but written correspondence and in-person service remain central to the way residents conduct official business."
         ]
       },
       {
         "heading": "A recurring constitutional debate",
         "paragraphs": [
-          "The most persistent tension in Mayflower political history concerns how to reconcile state sovereignty, efficient administration, and local self-government. Demands for uniform statewide standards can conflict with county independence; fiscal efficiency may conflict with public expectations of access and accountability.",
-          "In 1991 these are live political questions, shaped by the condition of schools, roads, courts, law enforcement, and public finances. No single constitutional doctrine has eliminated the need for negotiation and public debate."
+          "Since independence, Mayflower politics has been marked by disagreement over the proper reach of state government. Supporters of stronger central administration have argued that public services and legal standards should not vary widely between counties. Advocates of local independence have maintained that decisions affecting local communities should remain with the authorities closest to them.",
+          "These disputes have been renewed by twentieth-century urban growth and the demands of an increasingly interconnected economy. In 1991, funding for schools, transportation, law enforcement, and other public services remains at the center of arguments over state authority and county self-government."
         ]
       }
     ]
