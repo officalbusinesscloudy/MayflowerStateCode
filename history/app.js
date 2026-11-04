@@ -20,7 +20,7 @@ const timeline=[
 ['January 1776','Revolutionary forces capture Lander and its royal administrative facilities.','revolution'],
 ['4 July 1776','The Union of Columbia declares independence; Mayflower joins the new confederation.','revolution'],
 ['3 September 1783','The War of Independence ends in a rebel victory.','revolution'],
-['1780s','Mayflower replaces provisional administration with permanent constitutional institutions.','early-republic'],
+['1780s','Mayflower replaces its provisional government with elected representatives, a Governor, and state courts.','early-republic'],
 ['1820s','The four-county system of local government is consolidated.','early-republic'],
 ['1830s','Diamond Creek mineral discoveries encourage investment and inland transportation.','industrial'],
 ['1840s–1850s','Railways, workshops, mills, and port facilities expand.','industrial'],
@@ -47,7 +47,7 @@ function renderHome(){
  document.title='History of Mayflower | State of Mayflower';
  return '<p class="archive-eyebrow">Historical archive · Through 1991</p>'+
  '<h2 class="archive-title">The State of Mayflower</h2>'+
- '<p class="archive-lead">Mayflower is a constituent state of the Union of Columbia, situated on the northeastern coast of the Columbian continent. One of the fourteen founding states, it has a history shaped by maritime settlement, the struggle for independence, industrial development, and the growth of Lander as a center of government and commerce.</p>'+
+ '<p class="archive-lead">Mayflower is a constituent state of the Union of Columbia, situated on the northeastern coast of the Columbian continent. One of the fourteen founding states, its history spans colonial settlement, the War of Independence, industrial growth, and the rise of Lander as a center of government and commerce.</p>'+
  '<p class="archive-opening">The historical record begins with the region’s indigenous communities and continues through the Wallonian settlements, the Pax Britannian colonial period, the founding of the Union in 1776, and the political and economic changes that followed. These articles trace Mayflower’s development to 1991, including the distinct histories of New Haven, Clark, Lee, and Elizabeth Counties.</p>'+
  '<div class="history-actions"><a href="?view=timeline">View historical timeline</a></div>'+
  groups.map(([label,key])=>'<section class="archive-home-group"><h3 class="archive-section-title">'+esc(label)+'</h3><div class="archive-grid">'+articles.filter(a=>a.group===key).map(card).join('')+'</div></section>').join('');
