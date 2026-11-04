@@ -23,8 +23,8 @@ export const foundations = [
       {
         "heading": "Political authority and territory",
         "paragraphs": [
-          "Political life was organized locally and regionally rather than through a state resembling Mayflower in 1991. Authority might rest with councils, hereditary leaders, or assemblies depending upon the community. Agreements concerning hunting grounds, fishing waters, planting land, and travel routes were maintained through diplomacy as well as force.",
-          "Colonial maps eventually imposed borders that had no equivalent in earlier systems of land use. The modern four-county framework, and even the name Mayflower, are therefore much later creations and cannot accurately describe indigenous political geography."
+          "Before European settlement, political authority was exercised within communities and regional alliances rather than through a single government. Leadership and decision-making practices differed between settlements, as did arrangements for access to fishing grounds, farmland, hunting territories, and travel routes.",
+          "Colonial officials subsequently imposed new territorial boundaries and methods of recording land ownership. Many of those boundaries disregarded earlier claims and agreements, contributing to disputes that continued beyond the colonial period."
         ]
       },
       {
@@ -46,8 +46,8 @@ export const foundations = [
       {
         "heading": "The landing of 1620",
         "paragraphs": [
-          "A European landing on the Mayflower coast is traditionally dated to 1620. Later accounts often treated the expedition as the region’s founding, but it produced neither a single permanent settlement nor an immediate colonial state. The visit belongs instead to a wider period of maritime exploration and irregular contact between foreign crews and coastal communities.",
-          "The date survives as a historical convention. It is useful for chronology but should not be mistaken for the creation of Mayflower’s present institutions or for the beginning of human occupation."
+          "A European landing on the Mayflower coast is traditionally dated to 1620. The expedition is believed to have surveyed sheltered inlets and made contact with coastal communities, but it did not establish a lasting settlement.",
+          "The landing became prominent in later historical accounts because it preceded the permanent Wallonian communities founded five years afterward. The coast was already inhabited, and its principal routes and trading places had long been known to indigenous peoples."
         ]
       },
       {
@@ -67,8 +67,8 @@ export const foundations = [
       {
         "heading": "The river settlement of Lander",
         "paragraphs": [
-          "As trade expanded inland, a river-crossing settlement associated in local tradition with merchant Paul Lander grew into a collection of wharves, storehouses, homes, and mills. Colonial records generally give 1648 as the date of its municipal recognition. The town’s position linked coastal shipping with the interior and gave it advantages not shared by smaller river villages.",
-          "Lander was not yet the industrial capital that would dominate Mayflower centuries later. Its early strength lay in transshipment: cargo arriving by water could be distributed inland, while timber, grain, and other products could move toward the coast."
+          "During the middle of the seventeenth century, a trading settlement developed at an important inland river crossing. Local tradition associates its early commercial activity with the merchant Paul Lander. Colonial records place the settlement's municipal recognition in 1648.",
+          "Wharves, mills, storehouses, and markets arose along the river. Cargo brought upstream could be distributed to farms and smaller towns, while grain, timber, and other goods traveled toward the coast. These connections later gave Lander a decisive advantage during the expansion of rail transport and manufacturing."
         ]
       },
       {
