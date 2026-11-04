@@ -8,7 +8,7 @@ const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const href=id=>'?article='+encodeURIComponent(id);
 const slug=s=>String(s).toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
-const groups=[['Origins and colonial rule','origins'],['Revolution and nationhood','foundation'],['Modern history','modern'],['Counties and civic reference','reference']];
+const groups=[['Origins and colonial rule','origins'],['Revolution and nationhood','foundation'],['Modern history','modern'],['Counties, places, and people','reference']];
 const timeline=[
 ['Before 1620','Indigenous settlements and regional trade networks develop along the coast and river valleys.','origins'],
 ['1620','Traditional date of the first documented European landing on the Mayflower coast.','colonial'],
