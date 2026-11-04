@@ -51,45 +51,45 @@ export const appendix = [
     "summary": "Biographies of people associated with Mayflower's settlement, independence, public institutions, labor movement, and civic reform.",
     "sections": [
       {
-        "heading": "Paul Lander :  the river merchant",
+        "heading": "Paul Lander: the river merchant",
         "paragraphs": [
           "Paul Lander was a seventeenth-century merchant traditionally associated with the settlement that developed at the river crossing bearing his name. The surviving records provide an incomplete picture of his life, but local accounts credit his commercial activity with attracting traders and warehouse operators to the site.",
           "Lander's name became attached to a settlement that grew through the work of generations of residents. The river crossing itself had served communities and trade routes before colonial merchants established permanent buildings nearby."
         ]
       },
       {
-        "heading": "Marian Vale :  printer and revolutionary advocate",
+        "heading": "Marian Vale: printer and revolutionary advocate",
         "paragraphs": [
           "Marian Vale (c. 1748–1811) was a printer and political writer active during the final years of Pax Landeria. From her printing establishment she circulated petitions, accounts of provincial proceedings, and pamphlets criticizing royal taxation. Her correspondence connected committees in the inland towns with sympathizers along the coast.",
           "Vale was not a military leader, but her publications helped spread the revolutionary cause beyond the communities in which the first protests occurred. After independence she remained active in the public debate over representation and the authority of the new state government."
         ]
       },
       {
-        "heading": "Samuel Ellery :  a provisional administrator",
+        "heading": "Samuel Ellery: a provisional administrator",
         "paragraphs": [
           "Samuel Ellery (1741–1807), a merchant and lawyer, participated in the provisional administration formed after revolutionary forces took Lander. He helped oversee supply contracts, public records, and the continuation of court business at a time when much of the former colonial government had collapsed.",
           "Ellery was praised for keeping the civil administration functioning during the war, but his reliance on established merchants attracted criticism. Opponents argued that the provisional authorities imposed unequal burdens on smallholders and traders. These disputes followed him into the postwar years."
         ]
       },
       {
-        "heading": "Helena Rook :  service during the civil war",
+        "heading": "Helena Rook: service during the civil war",
         "paragraphs": [
           "Helena Rook (1824–1896) became known for organizing relief supplies and nursing assistance during the Columbian Civil War. Working with charitable associations, she helped coordinate the collection and distribution of clothing, medical goods, and food for wounded soldiers and families displaced by the fighting.",
           "Rook continued to support veterans and their dependents after the war. Her work formed part of a broader effort by voluntary associations to care for those whose needs exceeded the resources of military and civilian authorities."
         ]
       },
       {
-        "heading": "Eleanor Whitt :  the industrial reform movement",
+        "heading": "Eleanor Whitt: the industrial reform movement",
         "paragraphs": [
           "Eleanor Whitt (1867–1938) became associated with labor advocacy and urban social reform during the late industrial era. Her writings and public work drew attention to factory safety, overcrowded housing, and the gap between commercial wealth and conditions in working-class neighborhoods.",
           "Supporters regarded such reformers as essential to the modernization of public administration. Opponents feared that new restrictions would burden industry or expand state authority. The disagreement shaped Mayflower politics long after individual campaigns ended."
         ]
       },
       {
-        "heading": "Clara Merrin :  education and civic equality",
+        "heading": "Clara Merrin: education and civic equality",
         "paragraphs": [
-          "Clara Merrin (1912–1985) is remembered as an educator and civil-rights advocate whose campaigns emphasized school access, fair public services, and equal treatment in civic life. Her work is situated within the wider postwar movements that challenged discrimination and unequal opportunities.",
-          "By 1991, reformers of Merrin’s generation are commemorated by schools and community organizations, but the issues they raised remain subjects of political and judicial debate. Historical recognition should not be confused with the complete achievement of their goals."
+          "Clara Merrin (1912–1985) was an educator and civil-rights advocate whose work focused on school access, fair treatment in public services, and the rights of disadvantaged communities. She participated in a generation of reformers who challenged long-established inequalities through public campaigning and civic organizations.",
+          "By 1991, Merrin's efforts were commemorated by educational and community institutions. Her work also remained relevant to continuing disputes over school funding, discrimination, and equal access to public services."
         ]
       },
       {
