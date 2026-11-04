@@ -183,7 +183,7 @@ export const appendix = [
       {
         "heading": "Ports and industry",
         "paragraphs": [
-          "Lander and the older coastal harbors developed facilities for increasingly complex cargo and industrial supply chains. Modern docks, warehouses, and rail transfers supported manufacturing and commercial shipping. The demands of freight transport influenced bridge construction, access to the waterfront, and efforts to control pollution.",
+          "Lander and the older coastal harbors built docks, warehouses, and freight yards to handle growing volumes of coal, timber, minerals, and manufactured goods. Modern docks, warehouses, and rail transfers supported manufacturing and commercial shipping. The demands of freight transport influenced bridge construction, access to the waterfront, and efforts to control pollution.",
           "Industrial decline in the late twentieth century left portions of this infrastructure underused or in need of expensive rehabilitation. In 1991, local authorities and property owners are still debating whether to repair, replace, or redevelop these sites."
         ]
       },
@@ -197,7 +197,7 @@ export const appendix = [
       {
         "heading": "Communications in 1991",
         "paragraphs": [
-          "By 1991, Mayflower is served by telephone networks, radio and television broadcasters, postal services, and a wide circulation of local and regional newspapers. Businesses increasingly use fax machines and computerized accounting systems, while larger companies and government departments keep electronic records alongside paper files.",
+          "By 1991, Mayflower is served by telephone networks, radio and television broadcasters, postal services, and a wide circulation of local and regional newspapers. Many businesses use fax machines and computerized accounting systems. Larger companies and government departments keep electronic records alongside paper files.",
           "Government offices publish notices through newspapers, public postings, and printed records. Residents generally obtain information through direct contact with clerks and agencies, correspondence, or visits to local libraries and public offices."
         ]
       }
