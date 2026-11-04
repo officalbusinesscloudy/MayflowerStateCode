@@ -143,7 +143,7 @@ export const nationhood = [
     "title": "The Industrial Cities and the Reform Era",
     "period": "1870–1903",
     "group": "foundation",
-    "summary": "Urban growth, labor organization, public corruption, and the creation of Mayflower’s modern civic institutions.",
+    "summary": "Urban growth, labor organizing, political corruption, and reforms to city and state government.",
     "sections": [
       {
         "heading": "A new metropolitan landscape",
