@@ -2,7 +2,8 @@ import { foundations } from './data/foundations.js';
 import { nationhood } from './data/nationhood.js';
 import { twentieth } from './data/twentieth.js';
 import { reference } from './data/reference.js';
-const articles=[...foundations,...nationhood,...twentieth,...reference];
+import { appendix } from './data/appendix.js';
+const articles=[...foundations,...nationhood,...twentieth,...reference,...appendix];
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const href=id=>'?article='+encodeURIComponent(id);
@@ -27,12 +28,16 @@ const timeline=[
 ['1870s–1890s','Rapid industrial growth, labor organization, and municipal reform transform the state.','gilded'],
 ['July 1903','The Home Guard Act establishes the foundations of the modern Mayflower National Guard.','guard'],
 ['1910s','Electrification, automobiles, modern public health and wartime production reshape daily life.','guard'],
+['1912','Major river floods damage transport and industrial facilities along the Lander corridor.','disasters'],
+['1918–1919','The influenza pandemic puts hospitals and public-health authorities under extraordinary strain.','disasters'],
 ['1929','The global financial contraction begins affecting Mayflower banks and industry.','depression'],
 ['1930s','Unemployment and public works become defining political issues.','depression'],
 ['1939–1945','Global war brings mass industrial mobilization and expanded military service.','depression'],
 ['1945–1960','Veterans return; housing, schooling, highways, and suburban growth accelerate.','postwar'],
+['1954','A severe coastal storm damages towns, harbors, and utilities in the New Haven region.','disasters'],
 ['1960s','Civil rights campaigns, urban change, and government reform gain prominence.','postwar'],
 ['1970s','Industrial restructuring and fiscal strains intensify.','transition'],
+['1978','A large warehouse fire in the Lander industrial corridor renews safety debates.','disasters'],
 ['1980s','Finance and services grow as older industrial districts face disinvestment.','transition'],
 ['1990–1991','A slowing economy, public-service pressures, and debates over state authority frame the present.','present']
 ];
