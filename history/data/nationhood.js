@@ -16,8 +16,8 @@ export const nationhood = [
       {
         "heading": "The constitutional settlement",
         "paragraphs": [
-          "During the 1780s, Mayflower adopted permanent constitutional institutions and replaced much of its provisional administration with elected representative government. The state recognized an executive branch headed by a Governor, a legislature, and a judiciary, with the exact distribution of authority undergoing later revision. The constitutional tradition emphasized local consent, written limits on governmental power, and Mayflower’s membership in the Union of Columbia.",
-          "The institutions that exist in 1991 should not be imagined as unchanged from their first form. Procedures for elections, judicial administration, executive succession, and the relationship between the state and its counties developed through amendments and reform over generations. The present State Senate and courts are descendants of this longer constitutional process."
+          "During the 1780s, Mayflower established permanent constitutional institutions in place of the provisional administration formed during the Revolution. The new government drew upon colonial experience and the principles of independence, establishing elected representatives, state courts, and an executive administration.",
+          "Mayflower's constitutional arrangements underwent repeated revision during the following centuries. Changes to elections, the powers of state officers, judicial administration, and relations with county government accompanied the growth of the population and the extension of public services. The State Senate and judiciary of 1991 developed from these successive reforms."
         ]
       },
       {
@@ -111,7 +111,7 @@ export const nationhood = [
       {
         "heading": "Mayflower remains with the Union",
         "paragraphs": [
-          "Mayflower’s government upheld the continued existence of the Union and provided personnel and supplies for federal operations. State military formations were mobilized through the existing militia framework, and volunteers enlisted in new regiments. Lander’s transport network supported the movement of troops, food, uniforms, and equipment.",
+          "Mayflower’s government upheld the continued existence of the Union and provided personnel and supplies for federal operations. State military formations were mobilized through the state's established militia system, and volunteers enlisted in new regiments. Lander’s transport network supported the movement of troops, food, uniforms, and equipment.",
           "Support was substantial but not unanimous. Some residents challenged compulsory military obligations, extraordinary wartime taxation, or the expanding authority exercised by federal officials. Others favored more vigorous national action and condemned those they believed were obstructing the war effort."
         ]
       },
