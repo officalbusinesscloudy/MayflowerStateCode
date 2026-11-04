@@ -46,9 +46,9 @@ export const reference = [
   {
     "id": "government",
     "title": "Government and Constitutional Development",
-    "period": "Civic institutions · 1991",
+    "period": "State government · Through 1991",
     "group": "reference",
-    "summary": "The constitutional and political history of Mayflower, from the provisional revolutionary government to the institutions of 1991.",
+    "summary": "Mayflower's Constitution, Governor, State Senate, courts, and county governments from independence through 1991.",
     "sections": [
       {
         "heading": "Constitutional tradition",
@@ -319,7 +319,7 @@ export const reference = [
     "title": "People, Culture, and Everyday Life",
     "period": "Social reference · 1991",
     "group": "reference",
-    "summary": "Language, civic tradition, work, education, religion, recreation, and media in a varied twentieth-century state.",
+    "summary": "Language, religion, work, education, entertainment, and daily life in Mayflower.",
     "sections": [
       {
         "heading": "One state, several local identities",
@@ -343,7 +343,7 @@ export const reference = [
         ]
       },
       {
-        "heading": "Education and civic associations",
+        "heading": "Schools and local associations",
         "paragraphs": [
           "Schools, libraries, colleges, trade schools, and civic clubs provide places for education, meetings, and recreation. Volunteer organizations, veterans' associations, unions, chambers of commerce, neighborhood groups, and charitable societies contribute to political and social activity.",
           "Questions about the equality of school resources, the cost of college, and access to technical training have become more prominent as the economy changes. Local clubs and volunteer groups often organize activities and help residents in smaller towns with fewer public services."
@@ -357,7 +357,7 @@ export const reference = [
         ]
       },
       {
-        "heading": "Public memory and the future",
+        "heading": "Holidays and historic preservation",
         "paragraphs": [
           "Historical landmarks, Independence Day ceremonies, Guard commemorations, and preservation societies sustain an interest in Mayflower's past. The growth of the modern metropolis has also sparked efforts to protect industrial buildings, historic neighborhoods, and older coastal landscapes.",
           "In 1991, residents debate factory closures, school funding, county authority, and the cost of public services. The state's long history offers no single answer to those questions."
