@@ -10,7 +10,7 @@ export const twentieth = [
         "heading": "The Home Guard Act",
         "paragraphs": [
           "In July 1903, Mayflower enacted the Home Guard Act, establishing the modern Mayflower National Guard. The Act reorganized existing military companies into a permanent force with regular command, training, and equipment requirements. The Guard inherited the traditions of the revolutionary militia and the regiments that served during the Columbian Civil War, but was administered under a more consistent system.",
-          "The reorganization reflected concerns that scattered militia companies could not reliably meet the demands of disaster relief, internal emergencies, and federal military service. Questions of funding, recruitment, training, and civilian control continued after the Act's passage."
+          "Lawmakers argued that the scattered militia companies could not be relied upon during natural disasters, civil emergencies, or federal military mobilization. Questions of funding, recruitment, training, and civilian control continued after the Act's passage."
         ]
       },
       {
@@ -31,7 +31,7 @@ export const twentieth = [
         "heading": "Public health and social reform",
         "paragraphs": [
           "Rapid population growth exposed weaknesses in sanitation, hospital capacity, and disease control. Public-health campaigns emphasized water quality, waste removal, vaccination, and the treatment of infectious disease. The influenza pandemic at the end of the 1910s demonstrated how quickly illness could spread along transport routes.",
-          "Public institutions developed in response to these pressures. County hospitals, municipal health offices, schools, and charities expanded, though their reach differed widely between urban and rural areas. Reform groups also debated the treatment of the poor, access to education, and the place of women in public life."
+          "County hospitals, health departments, schools, and charities took on more work as towns grew. Rural communities generally had fewer doctors and public services than Lander and the larger county seats. Reform groups also debated the treatment of the poor, access to education, and the place of women in public life."
         ]
       },
       {
@@ -67,8 +67,8 @@ export const twentieth = [
       {
         "heading": "Political and social changes",
         "paragraphs": [
-          "Hardship altered political loyalties and increased scrutiny of financial institutions, large employers, and public officials. Labor organizations grew more influential in some industrial districts, while rural communities pressed for measures to stabilize agricultural incomes and preserve local services.",
-          "Families developed practical forms of mutual support. Churches, neighborhood organizations, cooperatives, and extended families became essential to many households. The experience of the 1930s shaped an enduring Mayflower political argument about whether economic security is chiefly a private, county, state, or federal responsibility."
+          "Hardship altered political loyalties and increased scrutiny of banks, large employers, and public officials. Labor organizations grew more influential in some industrial districts, while rural communities pressed for measures to stabilize agricultural incomes and preserve local services.",
+          "Families developed practical forms of mutual support. Churches, neighborhood organizations, cooperatives, and extended families became essential to many households. Throughout the 1930s, state politicians argued over who should pay for relief and how far government should intervene in the economy."
         ]
       },
       {
@@ -88,7 +88,7 @@ export const twentieth = [
       {
         "heading": "The end of war and the beginning of another era",
         "paragraphs": [
-          "By 1945, wartime demand had reshaped Mayflower's industrial capacity and financial institutions. The return of servicemembers, conversion of factories to civilian production, and pressure for housing created an immediate new set of challenges.",
+          "By 1945, wartime orders had increased production in Mayflower's factories and changed the business of its banks. The return of servicemembers, conversion of factories to civilian production, and pressure for housing created an immediate new set of challenges.",
           "The war years left an expanded transport network, experienced industrial labor force, and stronger connections between state and federal administration. Those changes provided foundations for postwar growth but also for later disputes over development, social rights, and economic dependence."
         ]
       }
@@ -104,7 +104,7 @@ export const twentieth = [
       {
         "heading": "A return to civilian life",
         "paragraphs": [
-          "The postwar years brought large numbers of returning veterans, growing families, and demand for homes, schools, medical care, and jobs. Industrial production remained an important employer, but the balance of work began to shift toward offices, commercial services, transportation management, and public institutions.",
+          "The postwar years brought large numbers of returning veterans, growing families, and demand for homes, schools, medical care, and jobs. Factories continued to employ many residents, but office work, commercial services, transport companies, and government departments were hiring a growing share of the workforce.",
           "Housing construction increased in the urban periphery where land was available for subdivisions and new roads. Established neighborhoods within Lander changed as some residents moved outward while others arrived to occupy aging housing and new industrial jobs."
         ]
       },
@@ -139,7 +139,7 @@ export const twentieth = [
       {
         "heading": "The late 1960s",
         "paragraphs": [
-          "By the end of the decade, Mayflower was wealthier and more interconnected than the state of the 1930s, but it was also more complex. Political arguments over civil rights, policing, education, public spending, and war reflected the growing diversity of the population and competing expectations of government.",
+          "By the late 1960s, disputes over civil rights, policing, school funding, public spending, and war were common at meetings and in election campaigns. Postwar prosperity had not ended disagreements over who benefited from economic growth.",
           "The older image of a uniform industrial state no longer captured Mayflower's society. Its future depended as much on suburban growth, service industries, and changing civic expectations as on its mills and docks."
         ]
       }
@@ -176,7 +176,7 @@ export const twentieth = [
       {
         "heading": "Public safety and confidence in government",
         "paragraphs": [
-          "Changing patterns of commerce, drug trafficking, organized crime, and urban poverty placed pressure on criminal justice institutions. Publicized allegations of corruption and misconduct increased demands for oversight, while police and local officials argued that inadequate resources impeded effective service.",
+          "Drug trafficking, organized crime, and poverty in older urban neighborhoods placed greater demands on police departments, prosecutors, and courts. Publicized allegations of corruption and misconduct increased demands for oversight, while police and local officials argued that inadequate resources impeded effective service.",
           "The relationship between state agencies and county or municipal authorities became a recurring constitutional and administrative question. Some residents sought more uniform standards; others feared excessive centralization. These arguments remain unresolved in 1991."
         ]
       },
@@ -207,13 +207,13 @@ export const twentieth = [
         "heading": "The state at the present day",
         "paragraphs": [
           "As of 1991, the State of Mayflower is one of the twenty-eight constituent states of the Union of Columbia. Lander is the capital and the center of its largest metropolitan area. Mayflower is divided into New Haven, Clark, Lee, and Elizabeth Counties, whose coastal cities, inland towns, industrial districts, and rural settlements have developed along markedly different lines.",
-          "Mayflower's present character is the result of more than three centuries of settlement and nearly two centuries of independence. The ports and waterways that supported its colonial economy remain important, but financial services, manufacturing, transportation, agriculture, and commerce now connect the state to markets throughout the Union. The benefits of that economy are distributed unevenly, particularly between expanding suburban districts and older industrial neighborhoods."
+          "Mayflower's present character is the result of more than three centuries of settlement and nearly two centuries of independence. Its old ports still handle cargo, while manufacturers, transport companies, banks, farms, and merchants conduct business throughout the Union. The benefits of that economy are distributed unevenly, particularly between expanding suburban districts and older industrial neighborhoods."
         ]
       },
       {
         "heading": "Government and public administration",
         "paragraphs": [
-          "The Constitution of Mayflower establishes a government divided among the executive, legislative, and judicial branches. Executive authority is vested in the Governor, legislative authority in the State Senate, and judicial authority in the courts of the state. The seat of government is Lander, where the principal state offices and legislative institutions are located.",
+          "The Constitution of Mayflower establishes a government divided among the executive, legislative, and judicial branches. Executive authority is vested in the Governor, legislative authority in the State Senate, and judicial authority in the courts of the state. The seat of government is Lander, where the Governor's offices, the Senate, and other state departments are located.",
           "New Haven, Clark, Lee, and Elizabeth Counties form the principal divisions of local administration. Their governments conduct county business from Plymouth, Mersea, Winchester, and Little Horsted, respectively. Incorporated towns and cities exercise municipal responsibilities within their jurisdictions. The relationship between the state, counties, and municipalities has long been a subject of debate, especially over taxation, roads, education, and public services.",
           "Political life in 1991 is dominated by questions of how public resources and authority should be exercised. Rising costs, deteriorating infrastructure, changing employment, and allegations of public misconduct have brought renewed attention to the effectiveness and accountability of government."
         ]
@@ -221,7 +221,7 @@ export const twentieth = [
       {
         "heading": "The economic picture",
         "paragraphs": [
-          "Mayflower's economy remains rooted in the transport and industrial connections that made Lander a major commercial city. Shipping companies, railway operators, manufacturers, banks, insurers, and wholesale businesses employ thousands across the metropolitan region. Outside the principal cities, agriculture, forestry, mining-related businesses, and small-scale manufacturing retain a significant place in county economies.",
+          "Mayflower's economy remains rooted in the transport and industrial connections that made Lander a major commercial city. Shipping companies, railway operators, manufacturers, banks, insurers, and wholesale businesses employ thousands across the metropolitan region. Outside the principal cities, farms, timber operations, mining businesses, and small factories continue to provide jobs outside the larger cities.",
           "Changes in production and international competition have weakened several older manufacturing districts. Some factories have closed or reduced their workforces, leaving vacant buildings and a diminished local tax base. At the same time, office development and commercial services have expanded in better-connected parts of Lander and its suburbs.",
           "The economic slowdown at the beginning of the decade has added to concerns about unemployment, property values, public spending, and the future of communities dependent on declining industries."
         ]
@@ -231,14 +231,14 @@ export const twentieth = [
         "paragraphs": [
           "Transportation and public finance are among the most persistent questions facing Mayflower's government in 1991. Roads and bridges serving greater Lander carry increasing commuter and freight traffic, while older neighborhoods require repairs to water, sewer, and public buildings. Suburban construction has also placed pressure on schools and services in Lee and Clark Counties.",
           "Public safety and government integrity remain prominent political subjects. Residents and elected officials disagree over the resources available to police and courts, the oversight of public officers, and the responsibilities that belong to the state rather than local government. In industrial districts, abandoned properties, pollution, and unemployment create additional difficulties.",
-          "Coastal communities seek investment in harbors and protection against storms, while highland towns press for adequate roads, schools, and medical facilities. The differences between these priorities are reflected in legislative debate."
+          "Coastal communities seek investment in harbors and protection against storms, while highland towns press for adequate roads, schools, and medical facilities. These demands compete for attention and funding in the State Senate."
         ]
       },
       {
         "heading": "Everyday communications and culture",
         "paragraphs": [
           "Life in Mayflower in 1991 varies considerably between the metropolitan region and smaller towns. In Lander and its suburbs, commuting by automobile, shopping centers, and office employment are familiar features of daily life. In the coastal and upland counties, fishing, agriculture, tourism, forestry, and established town businesses remain closely tied to local identity.",
-          "Newspapers, radio, and television shape public opinion, while schools, veterans' halls, churches, civic clubs, and sporting events provide gathering places. Independence Day celebrations and commemorations of the Revolution and the Columbian Civil War retain an important place in public ceremony.",
+          "Residents follow state affairs through newspapers, radio, and television. Schools, veterans' halls, churches, civic clubs, and sports grounds bring neighbors together. Independence Day celebrations and commemorations of the Revolution and the Columbian Civil War retain an important place in public ceremony.",
           "Telephones, postal correspondence, and printed notices are the ordinary means of communication with public offices. Computers have become common in larger businesses and some government departments, but most residents encounter the state through its clerks, courts, offices, and public meetings."
         ]
       },
@@ -246,7 +246,7 @@ export const twentieth = [
         "heading": "Mayflower at the beginning of the 1990s",
         "paragraphs": [
           "Mayflower entered the 1990s during a period of adjustment. Its commercial centers continued to attract investment, yet many former industrial communities had not recovered from manufacturing job losses. Population movement toward the suburbs altered the political and financial balance between the counties, while the cost of maintaining public infrastructure continued to rise.",
-          "These conditions shaped the state at the beginning of 1991. Political power, economic opportunity, and local identity had changed repeatedly since independence, and their direction remained a central concern of public life."
+          "The state entered 1991 facing difficult choices over jobs, roads, public spending, and the division of authority between state and local government."
         ]
       }
     ]
