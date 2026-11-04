@@ -9,14 +9,14 @@ export const nationhood = [
       {
         "heading": "The problems of peace",
         "paragraphs": [
-          "The end of the War of Independence left Mayflower with damaged infrastructure, unpaid obligations, competing land claims, and a provisional government created under wartime pressure. The departure of royal officials had not automatically produced a uniform system of courts, taxation, records, and public administration. Former colonial districts retained different local customs and different expectations of self-government.",
+          "The end of the War of Independence left Mayflower with damaged infrastructure, unpaid obligations, competing land claims, and a provisional government created under wartime pressure. The departure of royal officials had not automatically produced a common system of courts, taxation, and government records. Former colonial districts retained different local customs and different expectations of self-government.",
           "Revolutionary leaders disagreed over how quickly to replace the temporary political arrangements established during the fighting. Merchants wanted secure credit and enforceable contracts. Inland communities wanted roads and protection from arbitrary levies. Former militia commanders wanted provision for veterans, while many residents feared the growth of another unaccountable government."
         ]
       },
       {
         "heading": "The constitutional settlement",
         "paragraphs": [
-          "During the 1780s, Mayflower established permanent constitutional institutions in place of the provisional administration formed during the Revolution. The new government drew upon colonial experience and the principles of independence, establishing elected representatives, state courts, and an executive administration.",
+          "During the 1780s, Mayflower established a permanent government under its constitution in place of the provisional administration formed during the Revolution. The new government drew upon colonial experience and the principles of independence, establishing elected representatives, state courts, and an executive administration.",
           "Mayflower's constitutional arrangements underwent repeated revision during the following centuries. Changes to elections, the powers of state officers, judicial administration, and relations with county government accompanied the growth of the population and the extension of public services. The State Senate and judiciary of 1991 developed from these successive reforms."
         ]
       },
@@ -30,14 +30,14 @@ export const nationhood = [
       {
         "heading": "Lander and the state capital",
         "paragraphs": [
-          "Lander’s river position and administrative buildings made it the leading candidate for the capital. Its designation reflected existing infrastructure and the desire for access from multiple regions. Government offices encouraged the growth of lodging houses, printers, legal practices, banks, and commercial services.",
-          "As the city expanded over the following century, its urban development increasingly crossed historical local boundaries. The modern Lander metropolitan region has important connections to both Clark and Lee Counties; the state government district is traditionally associated with Clark County."
+          "Lander’s river position and administrative buildings made it the leading candidate for the capital. Lander already had administrative buildings and river connections to the surrounding towns. Government offices encouraged the growth of lodging houses, printers, legal practices, banks, and commercial services.",
+          "As the city expanded over the following century, its urban development increasingly crossed historical local boundaries. Lander's metropolitan area eventually extended across parts of Clark and Lee Counties, although the capital district remained in Clark County."
         ]
       },
       {
         "heading": "Roads, schools, and local order",
         "paragraphs": [
-          "The first generations of state government invested heavily in roads, bridges, ferries, public records, and market regulation. Transport improvements helped connect the coastal population to the interior and made year-round administration possible in places once isolated by weather. Local communities also developed schools and charitable institutions, with levels of access differing sharply by place and wealth.",
+          "The first generations of state government invested heavily in roads, bridges, ferries, public records, and market regulation. Transport improvements helped connect the coastal population to the interior and made year-round administration possible in places once isolated by weather. Local communities also developed schools and charitable societies, with levels of access differing sharply by place and wealth.",
           "Enforcement remained uneven. County officials could have considerable practical autonomy, and state-wide policies often arrived slowly outside the largest towns. These tensions between uniform law and local conditions became a recurring theme of Mayflower politics."
         ]
       },
@@ -81,7 +81,7 @@ export const nationhood = [
       {
         "heading": "Migration and the changing population",
         "paragraphs": [
-          "Industrial expansion attracted people from rural Mayflower, other states of the Union, and overseas. New arrivals brought languages, customs, religious institutions, professional skills, and labor organizations. Some communities were able to establish businesses and social clubs quickly; others faced discrimination, unstable employment, and inadequate housing.",
+          "Industrial expansion attracted people from rural Mayflower, other states of the Union, and overseas. New arrivals brought languages, customs, churches, skilled trades, and labor organizations. Some communities were able to establish businesses and social clubs quickly; others faced discrimination, unstable employment, and inadequate housing.",
           "Growth did not eliminate the older rural economy. Farms in Lee and Elizabeth Counties supplied urban markets, while New Haven retained fishing, shipbuilding, and maritime trade. The state became more economically integrated even as its local communities grew more socially diverse."
         ]
       },
@@ -119,7 +119,7 @@ export const nationhood = [
         "heading": "Industry and the home front",
         "paragraphs": [
           "Manufacturing contracts expanded production in the city and its surrounding industrial districts. Rail yards operated under sustained pressure, while maritime employers worked to maintain trade and military transport. Women and younger workers took on new industrial and clerical responsibilities as men entered military service.",
-          "The wartime economy brought uneven benefits. Certain firms prospered while households experienced rising prices, shortages, and the loss of wage earners. Public charities, churches, and veterans' associations became important sources of support. Casualty lists made the distant conflict a local event in almost every community."
+          "The wartime economy brought uneven benefits. Certain firms prospered while households experienced rising prices, shortages, and the loss of wage earners. Churches, charities, and veterans' associations helped families who had lost wages or relatives to the war. Casualty lists made the distant conflict a local event in almost every community."
         ]
       },
       {
@@ -156,14 +156,14 @@ export const nationhood = [
         "heading": "Labor, employers, and industrial conflict",
         "paragraphs": [
           "Dockworkers, miners, machinists, railway employees, and mill workers formed associations to negotiate wages and working conditions. Strikes and lockouts interrupted commerce, sometimes prompting intervention by police, courts, or state authorities. Employers argued that unrestricted production was essential to prosperity; labor leaders pointed to dangerous workplaces and the instability of daily wages.",
-          "Industrial conflict also shaped elections. Reform candidates pressed for factory inspection, fairer municipal taxation, and limits on private influence over public infrastructure. Some reforms passed locally before wider state action, producing an uneven pattern of protection across counties."
+          "Strikes and disputes over factory conditions became campaign issues. Reform candidates pressed for factory inspection, fairer municipal taxation, and limits on private influence over public infrastructure. Some reforms passed locally before wider state action, producing an uneven pattern of protection across counties."
         ]
       },
       {
         "heading": "Government and patronage",
         "paragraphs": [
           "The size of the urban economy created opportunities for the misuse of public authority. Political machines traded favors for contracts, jobs, and electoral support. Disputes arose over harbor leases, railway franchises, street paving, procurement, and the appointment of local officials.",
-          "At the same time, new civic associations and newspapers exposed misconduct and pushed for professional public administration. Reform was not a single political party or movement: merchants, labor groups, clergy, and middle-class residents often supported different proposals for different reasons."
+          "Newspapers exposed municipal corruption, while civic groups demanded fair hiring and closer scrutiny of public contracts. Merchants, labor organizers, clergy, and homeowners did not always agree on which reforms should come first."
         ]
       },
       {
