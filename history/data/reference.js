@@ -61,7 +61,7 @@ export const reference = [
         "heading": "The executive",
         "paragraphs": [
           "The Governor is the chief executive of Mayflower and directs the administration of the state government. The office developed from the executive arrangements established during the Revolution and assumed more duties as the state government grew during the nineteenth century. The Lieutenant Governor is a separate constitutional officer whose duties are established by state law.",
-          "The Governor's office took on responsibility for finance, state roads, public property, and the work of government departments. This concentration of authority prompted objections from lawmakers and county officials. Legislators and county officials have periodically resisted the concentration of authority in Lander, particularly where state policy affects local taxation or services."
+          "The Governor's office took on responsibility for finance, state roads, public property, and the work of government departments. Lawmakers and county officials have opposed the concentration of power in Lander, particularly when state decisions affect local taxes or public services."
         ]
       },
       {
