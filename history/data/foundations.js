@@ -9,7 +9,7 @@ export const foundations = [
       {
         "heading": "A region with an older history",
         "paragraphs": [
-          "The history of Mayflower did not begin with the arrival of European ships. For generations beyond the reach of surviving written records, indigenous peoples inhabited its estuaries, wooded highlands, fertile valleys, and shores. Communities made use of the region’s varied resources without belonging to a single government or sharing a single political identity. River valleys connected settlements to one another; the coast opened routes to neighboring regions of the Columbian continent.",
+          "The history of Mayflower did not begin with the arrival of European ships. For generations beyond the reach of surviving written records, indigenous peoples inhabited its estuaries, wooded highlands, fertile valleys, and shores. Communities relied on the land and waterways for their livelihood, but each maintained its own leaders, customs, and ties to neighboring settlements. River valleys connected settlements to one another; the coast opened routes to neighboring regions of the Columbian continent.",
           "The surviving understanding of this period is incomplete. Many accounts produced under colonial governments concentrated on land acquisition and trade, obscuring the political structures that already existed. Later Mayflower historians have therefore distinguished between the history of the territory and the much shorter history of the state that now governs it."
         ]
       },
@@ -17,7 +17,7 @@ export const foundations = [
         "heading": "Settlements and exchange",
         "paragraphs": [
           "Fishing, shellfish gathering, agriculture, hunting, and woodland crafts supported permanent villages and seasonal camps. Inland paths linked the coast with the foothills and mountain passes. Goods and news traveled through networks of exchange that long predated the colonial roads and railways constructed upon them.",
-          "The mouths of navigable rivers were especially important. They allowed trade between inland and coastal communities and provided places where different groups met to negotiate passage, exchange goods, or resolve disputes. Several later colonial towns developed near these older crossing places."
+          "The mouths of navigable rivers served as markets and meeting places. Inland and coastal communities gathered there to trade, arrange passage, and settle disputes. Several later colonial towns developed near these older crossing places."
         ]
       },
       {
@@ -31,7 +31,7 @@ export const foundations = [
         "heading": "Contact and lasting consequences",
         "paragraphs": [
           "The first regular European contact introduced unfamiliar commercial goods and new pressures upon established trade relationships. It also brought disease, religious missions, land transactions of disputed meaning, and conflict between settlers and indigenous inhabitants. Effects differed across communities: some sought commercial alliances, while others resisted settlement or moved farther inland.",
-          "Indigenous descendants continued to live in Mayflower after formal colonial institutions appeared. Their history is neither a vanished preface to the state nor a single story of contact; it remains part of the region’s cultural and political inheritance through 1991."
+          "Indigenous communities survived the establishment of colonial rule. Many families remained in the region, preserving their customs and connections to ancestral lands through the centuries that followed."
         ]
       }
     ]
@@ -61,13 +61,13 @@ export const foundations = [
         "heading": "Plymouth and the harbor towns",
         "paragraphs": [
           "Plymouth emerged as one of the earliest lasting towns. Its harbor offered anchorage, warehouses, workshops, and connections with Wallonian merchants. Small settlements spread along neighboring coves and estuaries, while inland farmers supplied food and timber to the ships that visited the coast.",
-          "Plymouth later became associated with older architecture, parish records, maritime customs, and the memory of the first colonial era. By 1991, it remains the traditional seat of New Haven County and an important symbol of the state’s earliest European history."
+          "Plymouth's old harbor, parish records, and surviving colonial buildings recall its early years as a trading town. It serves as the seat of New Haven County in 1991."
         ]
       },
       {
         "heading": "The river settlement of Lander",
         "paragraphs": [
-          "During the middle of the seventeenth century, a trading settlement developed at an important inland river crossing. Local tradition associates its early commercial activity with the merchant Paul Lander. Colonial records place the settlement's municipal recognition in 1648.",
+          "During the middle of the seventeenth century, a trading settlement developed at an inland river crossing used by traders. Local tradition associates its early commercial activity with the merchant Paul Lander. Colonial records place the settlement's municipal recognition in 1648.",
           "Wharves, mills, storehouses, and markets arose along the river. Cargo brought upstream could be distributed to farms and smaller towns, while grain, timber, and other goods traveled toward the coast. These connections later gave Lander a decisive advantage during the expansion of rail transport and manufacturing."
         ]
       },
@@ -135,21 +135,21 @@ export const foundations = [
         "heading": "From resistance to armed conflict",
         "paragraphs": [
           "The final months of 1775 saw revolutionary volunteers consolidate into organized companies, though they remained poorly supplied and differed in training and leadership. Their principal advantages were local knowledge, cooperation among settlements, and support from portions of the civilian population. Royal forces retained fortified positions and access to professional equipment.",
-          "The central objective in Mayflower was to deny Pax Britannia control of the roads, river landings, and warehouses necessary to govern the province. The inland network proved as important as the better-known coastal ports."
+          "The central objective in Mayflower was to deny Pax Britannia control of the roads, river landings, and warehouses necessary to govern the province. The rebels depended on inland roads and river landings as much as on the coastal ports."
         ]
       },
       {
         "heading": "The capture of Lander",
         "paragraphs": [
-          "In January 1776, revolutionary forces entered the Lander district in a coordinated operation against royal positions. Fighting and negotiations over the surrender of key facilities took place around the city's approaches and administrative center. The royal garrison ultimately withdrew, leaving the rebels in control of important stores, routes, and records.",
-          "Later state tradition memorialized the event as the Fall of Lander. The victory did not end the war or secure every part of the province, but it removed the Crown’s most important inland administrative foothold and allowed revolutionary committees to operate more openly."
+          "In January 1776, revolutionary forces entered the Lander district in a coordinated operation against royal positions. Fighting and negotiations over the surrender of key facilities took place around the city's approaches and administrative center. The royal garrison ultimately withdrew, leaving the rebels in control of military supplies, roads, and provincial records.",
+          "Later state tradition memorialized the event as the Fall of Lander. The victory did not end the war or secure every part of the province, but it removed the Crown’s principal inland garrison and allowed revolutionary committees to operate more openly."
         ]
       },
       {
         "heading": "Fourth of July, 1776",
         "paragraphs": [
-          "On July 4, 1776, representatives of the rebelling colonies declared independence from Pax Britannia and founded the Union of Columbia. Mayflower joined the Union as a constituent state and began using the name by which it is now known. The date became both a national holiday and an enduring part of Mayflower’s civic identity.",
-          "The declaration was unilateral: it announced a claim to sovereignty that Pax Britannia did not then recognize. The newly formed Union faced an extended conflict, financial uncertainty, fragile inter-state cooperation, and the necessity of building political institutions while continuing to fight."
+          "On July 4, 1776, representatives of the rebelling colonies declared independence from Pax Britannia and founded the Union of Columbia. Mayflower joined the Union as a constituent state and began using the name by which it is now known. The anniversary became a national holiday, commemorated throughout Mayflower.",
+          "The declaration was unilateral: it announced a claim to sovereignty that Pax Britannia did not then recognize. The newly formed Union faced an extended conflict, financial uncertainty, fragile inter-state cooperation, and the task of raising an army and establishing a government while the war continued."
         ]
       },
       {
