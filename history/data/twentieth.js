@@ -111,7 +111,7 @@ export const twentieth = [
       {
         "heading": "The highways and the suburbs",
         "paragraphs": [
-          "Road investment changed the scale of everyday commuting. Motor routes connected Lander to Winchester, Madison, Woodbury, and smaller settlements across the metropolitan fringe. Shopping areas and workplaces increasingly developed along highway interchanges rather than solely around the old rail and streetcar lines.",
+          "Road investment changed the scale of everyday commuting. Motor routes connected Lander to Winchester, Madison, Woodbury, and smaller settlements across the metropolitan fringe. Shops and new workplaces appeared near highway interchanges, drawing business away from older rail and streetcar routes.",
           "Suburban expansion affected county finances. Lee and Clark Counties needed schools, utilities, police protection, and road maintenance for communities growing faster than the older governmental arrangements had anticipated. The pattern also created increasing car dependence and disputes over zoning."
         ]
       },
@@ -162,7 +162,7 @@ export const twentieth = [
       {
         "heading": "A divided metropolitan economy",
         "paragraphs": [
-          "Lander increasingly presented contrasting landscapes: prosperous commercial towers and redeveloped waterfront properties near aging industrial streets and underfunded neighborhoods. These contrasts extended into the suburbs. Certain Lee County communities grew rapidly with new housing and retail development, while older mill towns saw investment decline.",
+          "In Lander, new office towers and redeveloped waterfront property stood close to aging factories and neglected residential streets. These contrasts extended into the suburbs. Certain Lee County communities grew rapidly with new housing and retail development, while older mill towns saw investment decline.",
           "Commercial success did not necessarily translate into fiscal stability. The costs of roads, water systems, law enforcement, and schools were distributed among governments whose boundaries had been established under very different economic conditions."
         ]
       },
