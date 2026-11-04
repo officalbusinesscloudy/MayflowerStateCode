@@ -61,7 +61,7 @@ export const reference = [
         "heading": "The executive",
         "paragraphs": [
           "The Governor is the chief executive of Mayflower and directs the administration of the state government. The office developed from the executive arrangements established during the Revolution and assumed more duties as the state government grew during the nineteenth century. The Lieutenant Governor is a separate constitutional officer whose duties are established by state law.",
-          "Over time, the executive branch assumed responsibility for increasingly complex public affairs, including finance, roads, state property, and the operation of government departments. The growth of executive administration was not without controversy. Legislators and county officials have periodically resisted the concentration of authority in Lander, particularly where state policy affects local taxation or services."
+          "The Governor's office took on responsibility for finance, state roads, public property, and the work of government departments. This concentration of authority prompted objections from lawmakers and county officials. Legislators and county officials have periodically resisted the concentration of authority in Lander, particularly where state policy affects local taxation or services."
         ]
       },
       {
@@ -89,7 +89,7 @@ export const reference = [
         "heading": "A recurring constitutional debate",
         "paragraphs": [
           "Since independence, Mayflower politics has been marked by disagreement over the proper reach of state government. Supporters of stronger central administration have argued that public services and legal standards should not vary widely between counties. Advocates of local independence have maintained that decisions affecting local communities should remain with the authorities closest to them.",
-          "These disputes have been renewed by twentieth-century urban growth and the demands of an increasingly interconnected economy. In 1991, funding for schools, transportation, law enforcement, and other public services remains at the center of arguments over state authority and county self-government."
+          "The growth of Lander and its suburbs brought these disputes back to the State Senate throughout the twentieth century. In 1991, funding for schools, transportation, law enforcement, and other public services remains at the center of arguments over state authority and county self-government."
         ]
       }
     ]
@@ -353,7 +353,7 @@ export const reference = [
         "heading": "Leisure and media in 1991",
         "paragraphs": [
           "Daily news travels primarily through newspapers, radio, and television. Cinemas, music venues, sporting events, and local festivals provide entertainment. Residents also use video cassette recorders, home game systems, personal stereos, and other consumer electronics characteristic of the late twentieth century.",
-          "Telephones are predominantly landline connections, though pagers and cellular phones are increasingly visible in certain occupations. Personal computers are present in offices and growing numbers of homes, but online services are not the ordinary means by which a resident obtains public records or communicates with government."
+          "Most households use landline telephones. Pagers and cellular phones are found among business executives, doctors, and some public employees, while personal computers are used in offices and a growing number of homes. Residents ordinarily obtain government records from clerks, libraries, or public offices."
         ]
       },
       {
